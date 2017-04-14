@@ -2,7 +2,7 @@
 fname: 'Jon'
 lname: 'Parsley'
 id: 1088
-published: False
+published: false
 layout: judge-bio
 ---
 Jon K. Parsley was born March 5, 1969 in Guymon, Oklahoma. He graduated

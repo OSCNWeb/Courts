@@ -2,7 +2,7 @@
 fname: 'Weldon'
 lname: 'Stout'
 id: 1072
-published: False
+published: false
 layout: judge-bio
 ---
 five years and have one child, Justin Stout who

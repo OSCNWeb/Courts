@@ -2,7 +2,7 @@
 fname: 'Bob'
 lname: 'Hughey'
 id: 981
-published: False
+published: false
 layout: judge-bio
 ---
 

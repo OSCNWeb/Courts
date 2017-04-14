@@ -2,7 +2,7 @@
 fname: 'Gerald'
 lname: 'Neuwirth'
 id: 938
-published: False
+published: false
 layout: judge-bio
 ---
 

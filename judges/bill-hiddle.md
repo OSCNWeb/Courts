@@ -2,7 +2,7 @@
 fname: 'Bill'
 lname: 'Hiddle'
 id: 525
-published: False
+published: false
 layout: judge-bio
 ---
 

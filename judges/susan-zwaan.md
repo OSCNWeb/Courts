@@ -2,7 +2,7 @@
 fname: 'Susan'
 lname: 'Zwaan'
 id: 1111
-published: False
+published: false
 layout: judge-bio
 ---
 1976

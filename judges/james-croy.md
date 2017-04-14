@@ -2,7 +2,7 @@
 fname: 'James'
 lname: 'Croy'
 id: 275
-published: False
+published: false
 layout: judge-bio
 ---
 

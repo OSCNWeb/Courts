@@ -2,7 +2,7 @@
 fname: 'Nikki'
 lname: 'Leach'
 id: 1084
-published: False
+published: false
 layout: judge-bio
 ---
 Orlando high school graduating in 1977. He

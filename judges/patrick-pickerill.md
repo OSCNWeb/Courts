@@ -2,7 +2,7 @@
 fname: 'Patrick'
 lname: 'Pickerill'
 id: 1083
-published: False
+published: false
 layout: judge-bio
 ---
 

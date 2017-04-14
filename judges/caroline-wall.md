@@ -2,7 +2,7 @@
 fname: 'Caroline'
 lname: 'Wall'
 id: 861
-published: False
+published: false
 layout: judge-bio
 ---
 2007, Judge Wall served as Associate District Judge of Tulsa

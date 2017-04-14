@@ -2,7 +2,7 @@
 fname: 'Richard'
 lname: 'Woolery'
 id: 486
-published: False
+published: false
 layout: judge-bio
 ---
 

@@ -2,7 +2,7 @@
 fname: 'William'
 lname: 'Musseman'
 id: 322
-published: False
+published: false
 layout: judge-bio
 ---
 

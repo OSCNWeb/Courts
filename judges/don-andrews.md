@@ -2,7 +2,7 @@
 fname: 'Don'
 lname: 'Andrews'
 id: 1050
-published: False
+published: false
 layout: judge-bio
 ---
 Committee.

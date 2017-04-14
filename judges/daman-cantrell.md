@@ -2,7 +2,7 @@
 fname: 'Daman'
 lname: 'Cantrell'
 id: 671
-published: False
+published: false
 layout: judge-bio
 ---
 

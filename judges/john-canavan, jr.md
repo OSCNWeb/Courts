@@ -2,7 +2,7 @@
 fname: 'John'
 lname: 'Canavan, Jr'
 id: 1041
-published: False
+published: false
 layout: judge-bio
 ---
 

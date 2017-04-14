@@ -2,7 +2,7 @@
 fname: 'Sarah'
 lname: 'Smith'
 id: 461
-published: False
+published: false
 layout: judge-bio
 ---
 Mayor's Office, Assessment of Civil Protective Order Process:

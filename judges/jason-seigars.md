@@ -2,7 +2,7 @@
 fname: 'Jason'
 lname: 'Seigars'
 id: 1149
-published: False
+published: false
 layout: judge-bio
 ---
 Chief of the

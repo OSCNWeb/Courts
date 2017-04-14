@@ -2,7 +2,7 @@
 fname: 'Theresa'
 lname: 'Dreiling'
 id: 952
-published: False
+published: false
 layout: judge-bio
 ---
 

@@ -2,7 +2,7 @@
 fname: 'Martha'
 lname: 'Carter'
 id: 1048
-published: False
+published: false
 layout: judge-bio
 ---
 author of Building Tulsa,

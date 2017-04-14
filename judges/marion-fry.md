@@ -2,7 +2,7 @@
 fname: 'Marion'
 lname: 'Fry'
 id: 1120
-published: False
+published: false
 layout: judge-bio
 ---
 1996

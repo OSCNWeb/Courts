@@ -2,7 +2,7 @@
 fname: 'Thomas'
 lname: 'Prince'
 id: 1057
-published: False
+published: false
 layout: judge-bio
 ---
 Chair, Lawyers Against Domestic Violence Committee of the OCBA

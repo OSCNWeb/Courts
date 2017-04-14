@@ -2,7 +2,7 @@
 fname: 'Patricia'
 lname: 'Parrish'
 id: 872
-published: False
+published: false
 layout: judge-bio
 ---
 Elect of the William J. Holloway,

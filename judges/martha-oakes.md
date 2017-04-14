@@ -2,7 +2,7 @@
 fname: 'Martha'
 lname: 'Oakes'
 id: 1009
-published: False
+published: false
 layout: judge-bio
 ---
 2010. In 2010, she was appointed Special Judge for Oklahoma

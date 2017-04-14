@@ -2,7 +2,7 @@
 fname: 'Louis'
 lname: 'Duel'
 id: 999
-published: False
+published: false
 layout: judge-bio
 ---
 Duel have been

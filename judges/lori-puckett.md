@@ -2,7 +2,7 @@
 fname: 'Lori'
 lname: 'Puckett'
 id: 1148
-published: False
+published: false
 layout: judge-bio
 ---
 

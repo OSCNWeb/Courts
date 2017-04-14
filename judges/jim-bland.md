@@ -2,7 +2,7 @@
 fname: 'Jim'
 lname: 'Bland'
 id: 421
-published: False
+published: false
 layout: judge-bio
 ---
 time member of the McAlester Rotary

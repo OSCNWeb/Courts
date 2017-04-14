@@ -2,7 +2,7 @@
 fname: 'Mark'
 lname: 'Campbell'
 id: 921
-published: False
+published: false
 layout: judge-bio
 ---
 District Judge Mark R. Campbell is a graduate of the University of

@@ -2,7 +2,7 @@
 fname: 'Greg'
 lname: 'Pollard'
 id: 1131
-published: False
+published: false
 layout: judge-bio
 ---
 1990

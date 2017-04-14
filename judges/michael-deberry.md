@@ -2,7 +2,7 @@
 fname: 'Michael'
 lname: 'DeBerry'
 id: 857
-published: False
+published: false
 layout: judge-bio
 ---
 2001. He

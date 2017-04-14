@@ -2,7 +2,7 @@
 fname: 'David'
 lname: 'Bandy'
 id: 1049
-published: False
+published: false
 layout: judge-bio
 ---
 house counsel

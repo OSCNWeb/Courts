@@ -2,7 +2,7 @@
 fname: 'Linda'
 lname: 'Morrissey'
 id: 462
-published: False
+published: false
 layout: judge-bio
 ---
 school classmate, John, and they are the proud

@@ -2,7 +2,7 @@
 fname: 'David'
 lname: 'Smith'
 id: 1080
-published: False
+published: false
 layout: judge-bio
 ---
 Special Judge of the 12th Judicial District

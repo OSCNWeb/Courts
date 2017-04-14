@@ -2,7 +2,7 @@
 fname: 'Jefferson'
 lname: 'Sellers'
 id: 409
-published: False
+published: false
 layout: judge-bio
 ---
 

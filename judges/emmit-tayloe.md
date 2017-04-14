@@ -2,7 +2,7 @@
 fname: 'Emmit'
 lname: 'Tayloe'
 id: 1086
-published: False
+published: false
 layout: judge-bio
 ---
 Born in Lawton, Oklahoma in 1957. Attended Lawton Public Schools

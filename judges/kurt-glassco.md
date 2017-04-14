@@ -2,7 +2,7 @@
 fname: 'Kurt'
 lname: 'Glassco'
 id: 1002
-published: False
+published: false
 layout: judge-bio
 ---
 

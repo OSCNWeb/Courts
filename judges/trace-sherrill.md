@@ -2,7 +2,7 @@
 fname: 'Trace'
 lname: 'Sherrill'
 id: 414
-published: False
+published: false
 layout: judge-bio
 ---
 

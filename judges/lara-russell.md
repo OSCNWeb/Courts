@@ -2,7 +2,7 @@
 fname: 'Lara'
 lname: 'Russell'
 id: 1127
-published: False
+published: false
 layout: judge-bio
 ---
 1994

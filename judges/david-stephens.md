@@ -2,7 +2,7 @@
 fname: 'David'
 lname: 'Stephens'
 id: 910
-published: False
+published: false
 layout: judge-bio
 ---
 2004 primarily as Hefley and Stephens Law

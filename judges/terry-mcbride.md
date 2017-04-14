@@ -2,7 +2,7 @@
 fname: 'Terry'
 lname: 'McBride'
 id: 422
-published: False
+published: false
 layout: judge-bio
 ---
 Judge McBride attended Edison High School in Tulsa Oklahoma and received his 

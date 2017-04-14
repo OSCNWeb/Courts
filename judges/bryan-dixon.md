@@ -2,7 +2,7 @@
 fname: 'Bryan'
 lname: 'Dixon'
 id: 270
-published: False
+published: false
 layout: judge-bio
 ---
 County Grand Jury.

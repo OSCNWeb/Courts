@@ -2,7 +2,7 @@
 fname: 'Ken'
 lname: 'Adair'
 id: 1040
-published: False
+published: false
 layout: judge-bio
 ---
 

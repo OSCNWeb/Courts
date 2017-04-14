@@ -2,7 +2,7 @@
 fname: 'Donna'
 lname: 'Dirickson'
 id: 1000
-published: False
+published: false
 layout: judge-bio
 ---
 Chairperson for the Lawyers Helping Lawyers

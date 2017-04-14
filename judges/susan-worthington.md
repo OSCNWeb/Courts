@@ -2,7 +2,7 @@
 fname: 'Susan'
 lname: 'Worthington'
 id: 1135
-published: False
+published: false
 layout: judge-bio
 ---
 

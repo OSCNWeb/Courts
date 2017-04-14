@@ -2,7 +2,7 @@
 fname: 'Barbara'
 lname: 'Hatfield'
 id: 1046
-published: False
+published: false
 layout: judge-bio
 ---
 Barbara Hatfield received her undergraduate degree with honors from Belmont Abbey College in 1980 and J.D. from OCU School of Law in 1984. 

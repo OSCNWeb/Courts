@@ -2,7 +2,7 @@
 fname: 'Lisa'
 lname: 'Davis'
 id: 1005
-published: False
+published: false
 layout: judge-bio
 ---
 2015 year. Judge Davis has served on

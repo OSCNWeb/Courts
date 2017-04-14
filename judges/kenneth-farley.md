@@ -2,7 +2,7 @@
 fname: 'Kenneth'
 lname: 'Farley'
 id: 1076
-published: False
+published: false
 layout: judge-bio
 ---
 8). He also served at the U.S.

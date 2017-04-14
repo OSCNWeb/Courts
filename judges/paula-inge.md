@@ -2,7 +2,7 @@
 fname: 'Paula'
 lname: 'Inge'
 id: 1073
-published: False
+published: false
 layout: judge-bio
 ---
 Paula G. Inge, a native of Oklahoma was born in Norman and graduated

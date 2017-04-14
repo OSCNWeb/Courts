@@ -2,7 +2,7 @@
 fname: 'Jared'
 lname: 'Sigler'
 id: 1150
-published: False
+published: false
 layout: judge-bio
 ---
 Jared P. Sigler was raised in Vinita, Oklahoma.  He graduated from Oklahoma State University in 1998, earning a Bachelor of Arts in Political Science.  Sigler attended law school at the University of Oklahoma and received his Juris Doctorate in May 2001.  He was admitted to the Oklahoma Bar in October of 2001.  

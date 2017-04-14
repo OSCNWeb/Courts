@@ -2,7 +2,7 @@
 fname: 'Gregory'
 lname: 'Johnson'
 id: 1054
-published: False
+published: false
 layout: judge-bio
 ---
 Gregory L. Johnson, was born in Madison, Wisconsin and graduated

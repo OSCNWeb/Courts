@@ -2,7 +2,7 @@
 fname: 'Dawn'
 lname: 'Moody'
 id: 951
-published: False
+published: false
 layout: judge-bio
 ---
 

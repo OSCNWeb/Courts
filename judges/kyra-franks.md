@@ -2,7 +2,7 @@
 fname: 'Kyra'
 lname: 'Franks'
 id: 890
-published: False
+published: false
 layout: judge-bio
 ---
 

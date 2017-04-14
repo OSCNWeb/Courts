@@ -2,7 +2,7 @@
 fname: 'Pamela'
 lname: 'Hammers'
 id: 1155
-published: False
+published: false
 layout: judge-bio
 ---
 

@@ -2,7 +2,7 @@
 fname: 'Harry'
 lname: 'Wyatt, III'
 id: 496
-published: False
+published: false
 layout: judge-bio
 ---
 2009.

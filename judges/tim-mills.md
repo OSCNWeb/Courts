@@ -2,7 +2,7 @@
 fname: 'Tim'
 lname: 'Mills'
 id: 1061
-published: False
+published: false
 layout: judge-bio
 ---
 coach for the McAlester High School Mock Trial Team. He and his wife, Nancy, are active in a number of civic organizations in McAlester.

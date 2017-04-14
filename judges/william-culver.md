@@ -2,7 +2,7 @@
 fname: 'William'
 lname: 'Culver'
 id: 618
-published: False
+published: false
 layout: judge-bio
 ---
 

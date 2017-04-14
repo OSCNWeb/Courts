@@ -2,7 +2,7 @@
 fname: 'Lee'
 lname: 'Turner'
 id: 1059
-published: False
+published: false
 layout: judge-bio
 ---
 

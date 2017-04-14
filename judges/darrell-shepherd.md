@@ -2,7 +2,7 @@
 fname: 'Darrell'
 lname: 'Shepherd'
 id: 431
-published: False
+published: false
 layout: judge-bio
 ---
 profit organization.

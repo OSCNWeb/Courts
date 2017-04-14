@@ -2,7 +2,7 @@
 fname: 'Donald'
 lname: 'Easter'
 id: 982
-published: False
+published: false
 layout: judge-bio
 ---
 United States Air Force

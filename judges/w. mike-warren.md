@@ -2,7 +2,7 @@
 fname: 'W. Mike'
 lname: 'Warren'
 id: 392
-published: False
+published: false
 layout: judge-bio
 ---
 

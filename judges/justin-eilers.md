@@ -2,7 +2,7 @@
 fname: 'Justin'
 lname: 'Eilers'
 id: 1115
-published: False
+published: false
 layout: judge-bio
 ---
 Justin P. Eilers is a fifth generation Oklahoman, born in Mooreland,

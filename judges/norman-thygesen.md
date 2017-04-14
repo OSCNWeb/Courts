@@ -2,7 +2,7 @@
 fname: 'Norman'
 lname: 'Thygesen'
 id: 903
-published: False
+published: false
 layout: judge-bio
 ---
 1980, Judge

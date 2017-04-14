@@ -2,7 +2,7 @@
 fname: 'Paul'
 lname: 'Woodward'
 id: 972
-published: False
+published: false
 layout: judge-bio
 ---
 Paul Woodward was raised in Northwest Oklahoma. He graduated from Enid

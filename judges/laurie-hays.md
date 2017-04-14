@@ -2,7 +2,7 @@
 fname: 'Laurie'
 lname: 'Hays'
 id: 1110
-published: False
+published: false
 layout: judge-bio
 ---
 1980

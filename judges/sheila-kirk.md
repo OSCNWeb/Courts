@@ -2,7 +2,7 @@
 fname: 'Sheila'
 lname: 'Kirk'
 id: 958
-published: False
+published: false
 layout: judge-bio
 ---
 

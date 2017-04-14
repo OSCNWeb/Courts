@@ -2,7 +2,7 @@
 fname: 'Tammy'
 lname: 'Bruce'
 id: 1058
-published: False
+published: false
 layout: judge-bio
 ---
 

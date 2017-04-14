@@ -2,7 +2,7 @@
 fname: 'George'
 lname: 'Butner'
 id: 606
-published: False
+published: false
 layout: judge-bio
 ---
 

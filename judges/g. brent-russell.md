@@ -2,7 +2,7 @@
 fname: 'G. Brent'
 lname: 'Russell'
 id: 935
-published: False
+published: false
 layout: judge-bio
 ---
 1985. At Oklahoma State, he was

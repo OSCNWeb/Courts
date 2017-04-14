@@ -2,7 +2,7 @@
 fname: 'Thomas'
 lname: 'Baldwin'
 id: 1001
-published: False
+published: false
 layout: judge-bio
 ---
 man for several Oklahoma Company's in the early 80's and then a

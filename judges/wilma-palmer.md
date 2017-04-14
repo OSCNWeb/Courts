@@ -2,7 +2,7 @@
 fname: 'Wilma'
 lname: 'Palmer'
 id: 968
-published: False
+published: false
 layout: judge-bio
 ---
 Wilma L. Palmer is a graduate of Booker T. Washington High School in

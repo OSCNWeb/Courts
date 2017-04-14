@@ -2,7 +2,7 @@
 fname: 'Carl'
 lname: 'Gibson'
 id: 858
-published: False
+published: false
 layout: judge-bio
 ---
 

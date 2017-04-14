@@ -2,7 +2,7 @@
 fname: 'Kirsten'
 lname: 'Pace'
 id: 930
-published: False
+published: false
 layout: judge-bio
 ---
 generation

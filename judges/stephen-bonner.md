@@ -2,7 +2,7 @@
 fname: 'Stephen'
 lname: 'Bonner'
 id: 892
-published: False
+published: false
 layout: judge-bio
 ---
 Born in Kansas City, Missouri and then moved to Norman in 1948.

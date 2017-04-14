@@ -2,7 +2,7 @@
 fname: 'Russell'
 lname: 'Vaclaw'
 id: 965
-published: False
+published: true
 layout: judge-bio
 ---
 The Honorable Russell C. Vaclaw is the Associate District Judge for the

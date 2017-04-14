@@ -2,7 +2,7 @@
 fname: 'Jequita'
 lname: 'Napoli'
 id: 482
-published: False
+published: false
 layout: judge-bio
 ---
 2003. Judge Napoli is currently a member of the

@@ -2,7 +2,7 @@
 fname: 'Barry'
 lname: 'Hafar'
 id: 947
-published: False
+published: false
 layout: judge-bio
 ---
 2011). Judge Hafar is a Master member in the Ruth Bader

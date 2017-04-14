@@ -2,7 +2,7 @@
 fname: 'Pandee'
 lname: 'Ramirez'
 id: 1130
-published: False
+published: false
 layout: judge-bio
 ---
 Treasurer for the Okmulgee Bar Association and remains a

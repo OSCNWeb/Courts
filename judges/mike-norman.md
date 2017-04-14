@@ -2,7 +2,7 @@
 fname: 'Mike'
 lname: 'Norman'
 id: 603
-published: False
+published: false
 layout: judge-bio
 ---
 Michael T. Norman born 10/30/43 in Muskogee, Oklahoma. Undergraduate

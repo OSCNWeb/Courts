@@ -2,7 +2,7 @@
 fname: 'Philip'
 lname: 'Ross'
 id: 922
-published: False
+published: false
 layout: judge-bio
 ---
 time Assistant District Attorney for Kay County from

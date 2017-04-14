@@ -2,7 +2,7 @@
 fname: 'Stephen'
 lname: 'Pazzo'
 id: 1027
-published: False
+published: false
 layout: judge-bio
 ---
 1990

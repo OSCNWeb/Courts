@@ -2,7 +2,7 @@
 fname: 'Lisa'
 lname: 'Shaw'
 id: 1117
-published: False
+published: false
 layout: judge-bio
 ---
 1982

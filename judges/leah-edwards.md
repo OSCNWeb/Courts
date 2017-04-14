@@ -2,7 +2,7 @@
 fname: 'Leah'
 lname: 'Edwards'
 id: 1136
-published: False
+published: false
 layout: judge-bio
 ---
 1998

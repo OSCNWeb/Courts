@@ -2,7 +2,7 @@
 fname: 'Tim'
 lname: 'Haworth'
 id: 1037
-published: False
+published: false
 layout: judge-bio
 ---
 

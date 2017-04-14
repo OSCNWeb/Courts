@@ -2,7 +2,7 @@
 fname: 'Russell'
 lname: 'Hall'
 id: 317
-published: False
+published: false
 layout: judge-bio
 ---
 

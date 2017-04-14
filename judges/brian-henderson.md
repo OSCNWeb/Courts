@@ -2,7 +2,7 @@
 fname: 'Brian'
 lname: 'Henderson'
 id: 956
-published: False
+published: false
 layout: judge-bio
 ---
 Brian Henderson grew up in Stigler, Oklahoma and is a 1991 graduate of

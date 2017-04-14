@@ -2,7 +2,7 @@
 fname: 'Preston'
 lname: 'Harbuck'
 id: 1029
-published: False
+published: false
 layout: judge-bio
 ---
 

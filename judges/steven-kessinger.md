@@ -2,7 +2,7 @@
 fname: 'Steven'
 lname: 'Kessinger'
 id: 984
-published: False
+published: false
 layout: judge-bio
 ---
 1982

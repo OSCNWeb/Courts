@@ -2,7 +2,7 @@
 fname: 'Cassandra'
 lname: 'Williams'
 id: 1085
-published: False
+published: false
 layout: judge-bio
 ---
 System

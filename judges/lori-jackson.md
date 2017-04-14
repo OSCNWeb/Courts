@@ -2,7 +2,7 @@
 fname: 'Lori'
 lname: 'Jackson'
 id: 1122
-published: False
+published: false
 layout: judge-bio
 ---
 1979

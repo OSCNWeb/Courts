@@ -2,7 +2,7 @@
 fname: 'Robert'
 lname: 'Davis'
 id: 875
-published: False
+published: false
 layout: judge-bio
 ---
 over work in commercials and public service messages. Member of Screen actors Guild and Association of radio and Television Artists since 1989(presently inactive). Avid St Louis Cardinal baseball fan. 

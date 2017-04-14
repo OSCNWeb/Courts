@@ -2,7 +2,7 @@
 fname: 'Cindy'
 lname: 'Pickering'
 id: 974
-published: False
+published: false
 layout: judge-bio
 ---
 chaired a number of charity

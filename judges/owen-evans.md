@@ -2,7 +2,7 @@
 fname: 'Owen'
 lname: 'Evans'
 id: 1024
-published: False
+published: false
 layout: judge-bio
 ---
 1979</p>

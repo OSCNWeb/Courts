@@ -2,7 +2,7 @@
 fname: 'Jack'
 lname: 'McCurdy'
 id: 976
-published: False
+published: false
 layout: judge-bio
 ---
 OKC for several years.

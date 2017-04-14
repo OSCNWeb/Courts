@@ -2,7 +2,7 @@
 fname: 'William'
 lname: 'Lafortune'
 id: 408
-published: False
+published: false
 layout: judge-bio
 ---
 1988, he served as Assistant Attorney General in the Civil &

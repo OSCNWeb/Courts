@@ -2,7 +2,7 @@
 fname: 'Jill'
 lname: 'Weedon'
 id: 623
-published: False
+published: false
 layout: judge-bio
 ---
 Custer Drug Court, and is

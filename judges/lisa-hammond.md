@@ -2,7 +2,7 @@
 fname: 'Lisa'
 lname: 'Hammond'
 id: 808
-published: False
+published: false
 layout: judge-bio
 ---
 

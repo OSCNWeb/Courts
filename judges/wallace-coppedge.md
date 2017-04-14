@@ -2,7 +2,7 @@
 fname: 'Wallace'
 lname: 'Coppedge'
 id: 1028
-published: False
+published: false
 layout: judge-bio
 ---
 Wallace Coppedge was born on September 21, 1960 in Oklahoma City,

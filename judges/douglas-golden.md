@@ -2,7 +2,7 @@
 fname: 'Douglas'
 lname: 'Golden'
 id: 909
-published: False
+published: false
 layout: judge-bio
 ---
 

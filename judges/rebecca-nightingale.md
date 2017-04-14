@@ -2,7 +2,7 @@
 fname: 'Rebecca'
 lname: 'Nightingale'
 id: 852
-published: False
+published: false
 layout: judge-bio
 ---
 Rebecca Brett Nightingale was born in Oklahoma City, Oklahoma in 1965.

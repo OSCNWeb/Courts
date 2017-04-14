@@ -2,7 +2,7 @@
 fname: 'Kenny'
 lname: 'Harris'
 id: 624
-published: False
+published: false
 layout: judge-bio
 ---
 Judge Ken Harris, a native Lawtonian, holds a BA Journalism from Univ.

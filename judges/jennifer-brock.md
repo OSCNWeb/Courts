@@ -2,7 +2,7 @@
 fname: 'Jennifer'
 lname: 'Brock'
 id: 1132
-published: False
+published: false
 layout: judge-bio
 ---
 Jennifer A. Brock was raised in Broken Arrow, Oklahoma and graduated

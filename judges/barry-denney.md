@@ -2,7 +2,7 @@
 fname: 'Barry'
 lname: 'Denney'
 id: 607
-published: False
+published: false
 layout: judge-bio
 ---
 

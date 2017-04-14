@@ -2,7 +2,7 @@
 fname: 'Eric'
 lname: 'Yarborough'
 id: 1114
-published: False
+published: false
 layout: judge-bio
 ---
 1994

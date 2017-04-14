@@ -2,7 +2,7 @@
 fname: 'Allen'
 lname: 'Welch'
 id: 907
-published: False
+published: false
 layout: judge-bio
 ---
 hood, he lived in Montana, Nevada, Mississippi,

@@ -2,7 +2,7 @@
 fname: 'Aletia'
 lname: 'Timmons'
 id: 1109
-published: False
+published: false
 layout: judge-bio
 ---
 founder/sponsor of Jamming Hoop Fest, a summer basketball program

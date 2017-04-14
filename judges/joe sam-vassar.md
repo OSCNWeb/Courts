@@ -2,7 +2,7 @@
 fname: 'Joe Sam'
 lname: 'Vassar'
 id: 619
-published: False
+published: false
 layout: judge-bio
 ---
 children and their children.

@@ -2,7 +2,7 @@
 fname: 'Timothy'
 lname: 'Olsen'
 id: 967
-published: False
+published: false
 layout: judge-bio
 ---
 second Judicial

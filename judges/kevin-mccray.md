@@ -2,7 +2,7 @@
 fname: 'Kevin'
 lname: 'McCray'
 id: 1145
-published: False
+published: false
 layout: judge-bio
 ---
 1990</p>

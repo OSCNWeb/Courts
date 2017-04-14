@@ -2,7 +2,7 @@
 fname: 'Michael'
 lname: 'Tupper'
 id: 997
-published: False
+published: false
 layout: judge-bio
 ---
 Michael Tupper is a Special Judge for the Cleveland County District

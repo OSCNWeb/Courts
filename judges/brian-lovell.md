@@ -2,7 +2,7 @@
 fname: 'Brian'
 lname: 'Lovell'
 id: 1047
-published: False
+published: false
 layout: judge-bio
 ---
 2011,

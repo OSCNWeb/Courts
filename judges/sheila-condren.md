@@ -2,7 +2,7 @@
 fname: 'Sheila'
 lname: 'Condren'
 id: 747
-published: False
+published: false
 layout: judge-bio
 ---
 wide

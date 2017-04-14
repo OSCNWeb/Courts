@@ -2,7 +2,7 @@
 fname: 'John'
 lname: 'Kane'
 id: 913
-published: False
+published: false
 layout: judge-bio
 ---
 grandmother is the late Mabelle Kennedy,

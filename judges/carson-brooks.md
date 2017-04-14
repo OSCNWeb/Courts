@@ -2,7 +2,7 @@
 fname: 'Carson'
 lname: 'Brooks'
 id: 1129
-published: False
+published: false
 layout: judge-bio
 ---
 2006). He has served with Oklahoma Lawyers for America's Heroes

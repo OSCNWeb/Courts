@@ -2,7 +2,7 @@
 fname: 'Leland'
 lname: 'Shilling'
 id: 1128
-published: False
+published: false
 layout: judge-bio
 ---
 1970

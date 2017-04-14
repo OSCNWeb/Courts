@@ -2,7 +2,7 @@
 fname: 'Irma'
 lname: 'Newburn'
 id: 1147
-published: False
+published: false
 layout: judge-bio
 ---
 2002

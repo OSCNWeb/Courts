@@ -2,7 +2,7 @@
 fname: 'Timothy'
 lname: 'Henderson'
 id: 1060
-published: False
+published: false
 layout: judge-bio
 ---
 Judge Henderson grew up in the Village in Northwest Oklahoma City and attended John Marshall High School.  He received his undergraduate degree from Central State University in 1981 with a Bachelor of Science in Political Science and a minor in Criminal Justice.

@@ -2,7 +2,7 @@
 fname: 'Rick'
 lname: 'Bozarth'
 id: 955
-published: False
+published: false
 layout: judge-bio
 ---
 President of the OBA in 2005.

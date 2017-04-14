@@ -2,7 +2,7 @@
 fname: 'J. Dwayne'
 lname: 'Steidley'
 id: 616
-published: False
+published: false
 layout: judge-bio
 ---
 

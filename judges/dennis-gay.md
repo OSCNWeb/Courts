@@ -2,7 +2,7 @@
 fname: 'Dennis'
 lname: 'Gay'
 id: 1035
-published: False
+published: false
 layout: judge-bio
 ---
 Dennis L. Gay has served as the Associate District Judge in Jefferson

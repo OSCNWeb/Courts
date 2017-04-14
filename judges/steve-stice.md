@@ -2,7 +2,7 @@
 fname: 'Steve'
 lname: 'Stice'
 id: 1021
-published: False
+published: false
 layout: judge-bio
 ---
 

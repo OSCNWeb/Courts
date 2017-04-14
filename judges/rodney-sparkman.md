@@ -2,7 +2,7 @@
 fname: 'Rodney'
 lname: 'Sparkman'
 id: 876
-published: False
+published: false
 layout: judge-bio
 ---
 2005). Since 2005 has served as a Special

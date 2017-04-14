@@ -2,7 +2,7 @@
 fname: 'Bruce'
 lname: 'Gambill'
 id: 358
-published: False
+published: false
 layout: judge-bio
 ---
 

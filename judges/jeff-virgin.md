@@ -2,7 +2,7 @@
 fname: 'Jeff'
 lname: 'Virgin'
 id: 1077
-published: False
+published: false
 layout: judge-bio
 ---
 2004

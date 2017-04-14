@@ -2,7 +2,7 @@
 fname: 'Sharon'
 lname: 'Holmes'
 id: 1118
-published: False
+published: false
 layout: judge-bio
 ---
 1988,
