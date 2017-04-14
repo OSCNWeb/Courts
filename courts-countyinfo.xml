@@ -1,0 +1,25 @@
+---
+permalink : courts-countyinfo.xml
+---
+<Counties>{%for county in site.data.county%}{% assign geocode = site.data.geocode | where: 'CntyDesc', county.county %}
+  <County>
+    <countyid>{{county.id}}</countyid>
+    <abbreviation>{{county.abbreviation}}</abbreviation>
+    <name>{{county.county}}</name>
+    <hours>{{county.hours}}</hours>
+    <lunch>{{county.lunch}}</lunch>
+    <clerk>{{county.clerk}}</clerk>
+    {%if county.img-sm != '0'%}<clerkphoto>{{county.img-sm}}</clerkphoto>{%endif%}
+    <judicialdistrict>{{county.district}}</judicialdistrict>
+    <locationname>{{county.address1 | xml_escape}}</locationname>
+    <geolocation>{{ geocode[0].GeoCode }}</geolocation>
+    <address1>{{county.address2 | xml_escape}}</address1>
+    <address2>{{county.address3 | xml_escape}}</address2>
+    <city>{{county.city}}</city>
+    <state>{{county.state}}</state>
+    <zip>{{county.zip}}</zip>
+    <phone>({{county.phone | slice: 0,3}}) {{county.phone | slice: 3,3}}-{{county.phone | slice: 6,4}}</phone>
+    {%assign faxsize = county.fax | size%}{%if faxsize > 0%}<fax>({{county.fax | slice: 0,3}}) {{county.fax | slice: 3,3}}-{{county.fax | slice: 6,4}}</fax>{%endif%}
+    <system>1</system>
+  </County>{%endfor%}</Counties>
+
