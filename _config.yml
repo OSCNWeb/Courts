@@ -25,3 +25,5 @@ defaults:
      path: "judges"
    values:
       layout: "judge-bio"
+prose:
+  rooturl: 'judges'
