@@ -1,0 +1,10 @@
+---
+layout: default
+---
+{% assign name = page.name | split: '-' %}
+{% assign fn = name[0] | capitalize %}
+{% assign ln = name[1] | replace: '.md', '' | capitalize %}
+
+{% assign judge = site.data.judges | where: 'fname', fn | where: 'lname', ln%}
+<h1>{{judge[0].lname}}</h1>
+{{content}}
