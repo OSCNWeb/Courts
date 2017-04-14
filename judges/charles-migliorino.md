@@ -1,8 +1,8 @@
----
+﻿---
 fname: 'Charles'
 lname: 'Migliorino'
 id: 1053
-published: false
+published: False
 layout: judge-bio
 ---
 

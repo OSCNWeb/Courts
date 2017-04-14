@@ -1,8 +1,8 @@
----
+﻿---
 fname: 'Jefferson'
 lname: 'Sellers'
 id: 409
-published: false
+published: False
 layout: judge-bio
 ---
 

@@ -1,8 +1,8 @@
----
+﻿---
 fname: 'Robert'
 lname: 'Reavis, II'
 id: 457
-published: false
+published: False
 layout: judge-bio
 ---
 

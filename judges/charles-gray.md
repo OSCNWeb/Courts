@@ -1,8 +1,8 @@
----
+﻿---
 fname: 'Charles'
 lname: 'Gray'
 id: 959
-published: false
+published: False
 layout: judge-bio
 ---
 

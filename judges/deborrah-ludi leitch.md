@@ -1,8 +1,8 @@
----
+﻿---
 fname: 'Deborrah'
 lname: 'Ludi Leitch'
 id: 1012
-published: false
+published: False
 layout: judge-bio
 ---
 

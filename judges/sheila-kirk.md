@@ -1,8 +1,8 @@
----
+﻿---
 fname: 'Sheila'
 lname: 'Kirk'
 id: 958
-published: false
+published: False
 layout: judge-bio
 ---
 

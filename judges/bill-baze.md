@@ -1,8 +1,8 @@
----
+﻿---
 fname: 'Bill'
 lname: 'Baze'
 id: 1087
-published: false
+published: False
 layout: judge-bio
 ---
 

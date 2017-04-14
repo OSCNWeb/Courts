@@ -1,8 +1,8 @@
----
+﻿---
 fname: 'Timothy'
 lname: 'Brauer'
 id: 499
-published: false
+published: False
 layout: judge-bio
 ---
 

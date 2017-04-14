@@ -1,8 +1,8 @@
----
+﻿---
 fname: 'Glenn'
 lname: 'Jones'
 id: 417
-published: false
+published: False
 layout: judge-bio
 ---
 

@@ -1,8 +1,8 @@
----
+﻿---
 fname: 'Mindy'
 lname: 'Beare'
 id: 1137
-published: false
+published: False
 layout: judge-bio
 ---
 

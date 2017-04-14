@@ -1,8 +1,8 @@
----
+﻿---
 fname: 'D'
 lname: 'Mowdy'
 id: 953
-published: false
+published: False
 layout: judge-bio
 ---
 

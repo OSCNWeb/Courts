@@ -1,8 +1,8 @@
----
+﻿---
 fname: 'Gregory'
 lname: 'Ryan'
 id: 807
-published: false
+published: False
 layout: judge-bio
 ---
 

@@ -1,8 +1,8 @@
----
+﻿---
 fname: 'David'
 lname: 'Cawthon'
 id: 901
-published: false
+published: False
 layout: judge-bio
 ---
 

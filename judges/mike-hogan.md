@@ -1,8 +1,8 @@
----
+﻿---
 fname: 'Mike'
 lname: 'Hogan'
 id: 1152
-published: false
+published: False
 layout: judge-bio
 ---
 

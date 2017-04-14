@@ -1,8 +1,8 @@
----
+﻿---
 fname: 'Ken'
 lname: 'Adair'
 id: 1040
-published: false
+published: False
 layout: judge-bio
 ---
 

@@ -1,8 +1,8 @@
----
+﻿---
 fname: 'John'
 lname: 'Herndon'
 id: 413
-published: false
+published: False
 layout: judge-bio
 ---
 

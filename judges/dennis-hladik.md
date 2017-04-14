@@ -1,8 +1,8 @@
----
+﻿---
 fname: 'Dennis'
 lname: 'Hladik'
 id: 941
-published: false
+published: False
 layout: judge-bio
 ---
-
+Hillsdale Board of Education.

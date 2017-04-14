@@ -1,8 +1,8 @@
----
+﻿---
 fname: 'Floyd'
 lname: 'Haught'
 id: 150
-published: false
+published: False
 layout: judge-bio
 ---
 

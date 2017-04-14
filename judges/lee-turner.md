@@ -1,8 +1,8 @@
----
+﻿---
 fname: 'Lee'
 lname: 'Turner'
 id: 1059
-published: false
+published: False
 layout: judge-bio
 ---
 

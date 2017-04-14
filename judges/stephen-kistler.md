@@ -1,8 +1,8 @@
----
+﻿---
 fname: 'Stephen'
 lname: 'Kistler'
 id: 989
-published: false
+published: False
 layout: judge-bio
 ---
 

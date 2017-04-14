@@ -1,8 +1,8 @@
----
+﻿---
 fname: 'Lisa'
 lname: 'Hammond'
 id: 808
-published: false
+published: False
 layout: judge-bio
 ---
 

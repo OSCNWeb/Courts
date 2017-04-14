@@ -1,8 +1,8 @@
----
+﻿---
 fname: 'Rocky'
 lname: 'Powers'
 id: 247
-published: false
+published: False
 layout: judge-bio
 ---
 

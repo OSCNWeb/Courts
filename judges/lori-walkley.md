@@ -1,8 +1,8 @@
----
+﻿---
 fname: 'Lori'
 lname: 'Walkley'
 id: 891
-published: false
+published: False
 layout: judge-bio
 ---
 

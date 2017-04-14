@@ -1,8 +1,8 @@
----
+﻿---
 fname: 'Jon'
 lname: 'Sullivan'
 id: 957
-published: false
+published: False
 layout: judge-bio
 ---
 

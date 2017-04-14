@@ -1,8 +1,8 @@
----
+﻿---
 fname: 'R.'
 lname: 'Hert'
 id: 1045
-published: false
+published: False
 layout: judge-bio
 ---
 

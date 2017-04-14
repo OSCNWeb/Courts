@@ -1,8 +1,8 @@
----
+﻿---
 fname: 'William'
 lname: 'Musseman'
 id: 322
-published: false
+published: False
 layout: judge-bio
 ---
 

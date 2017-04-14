@@ -1,8 +1,8 @@
----
+﻿---
 fname: 'Lawrence'
 lname: 'Parish'
 id: 908
-published: false
+published: False
 layout: judge-bio
 ---
 

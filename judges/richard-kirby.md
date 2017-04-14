@@ -1,8 +1,8 @@
----
+﻿---
 fname: 'Richard'
 lname: 'Kirby'
 id: 963
-published: false
+published: False
 layout: judge-bio
 ---
 

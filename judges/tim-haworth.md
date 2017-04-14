@@ -1,8 +1,8 @@
----
+﻿---
 fname: 'Tim'
 lname: 'Haworth'
 id: 1037
-published: false
+published: False
 layout: judge-bio
 ---
 

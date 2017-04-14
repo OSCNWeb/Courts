@@ -1,8 +1,8 @@
----
+﻿---
 fname: 'Roger'
 lname: 'Stuart'
 id: 445
-published: false
+published: False
 layout: judge-bio
 ---
 

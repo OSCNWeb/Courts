@@ -1,8 +1,8 @@
----
+﻿---
 fname: 'Norman'
 lname: 'Russell'
 id: 498
-published: false
+published: False
 layout: judge-bio
 ---
 

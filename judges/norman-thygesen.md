@@ -1,8 +1,21 @@
----
+﻿---
 fname: 'Norman'
 lname: 'Thygesen'
 id: 903
-published: false
+published: False
 layout: judge-bio
 ---
-
+1980, Judge
+Thygesen was the Assistant Superintendent of Schools in Shawnee, while
+he attended Oklahoma City University's School of Law. He received his
+Juris Doctorate in 1980. After two years with the Department of Economic
+and Community Affairs, he became an Assistant District Attorney in
+Muskogee, and was chief prosecutor for 5 years. He then went to Oklahoma
+City to work for the Attorney General's Office as Chief of the General
+Counsel. Finding that he missed the courtroom, Judge Thygesen returned
+to prosecution in Tulsa and then Okmulgee. During his time in the
+various District Attorney's Offices, he prosecuted over 300 felony jury
+trials, including 8 death penalty murder cases. He and his wife, Sheryl,
+together have 6 children and 11 grandchildren. Appointed by Governor
+Brad Henry in 2004, Norman Thygesen is Muskogee's Associate District
+Judge.

@@ -1,8 +1,8 @@
----
+﻿---
 fname: 'Mickey'
 lname: 'Hadwiger'
 id: 813
-published: false
+published: False
 layout: judge-bio
 ---
 

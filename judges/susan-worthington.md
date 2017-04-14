@@ -1,8 +1,8 @@
----
+﻿---
 fname: 'Susan'
 lname: 'Worthington'
 id: 1135
-published: false
+published: False
 layout: judge-bio
 ---
 

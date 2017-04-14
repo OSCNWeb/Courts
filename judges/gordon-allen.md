@@ -1,8 +1,8 @@
----
+﻿---
 fname: 'Gordon'
 lname: 'Allen'
 id: 937
-published: false
+published: False
 layout: judge-bio
 ---
 

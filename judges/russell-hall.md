@@ -1,8 +1,8 @@
----
+﻿---
 fname: 'Russell'
 lname: 'Hall'
 id: 317
-published: false
+published: False
 layout: judge-bio
 ---
 

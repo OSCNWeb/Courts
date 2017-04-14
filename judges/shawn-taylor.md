@@ -1,8 +1,8 @@
----
+﻿---
 fname: 'Shawn'
 lname: 'Taylor'
 id: 998
-published: false
+published: False
 layout: judge-bio
 ---
 

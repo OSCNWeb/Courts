@@ -1,8 +1,8 @@
----
+﻿---
 fname: 'Loren'
 lname: 'Angle'
 id: 849
-published: false
+published: False
 layout: judge-bio
 ---
 

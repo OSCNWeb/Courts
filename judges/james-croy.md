@@ -1,8 +1,8 @@
----
+﻿---
 fname: 'James'
 lname: 'Croy'
 id: 275
-published: false
+published: False
 layout: judge-bio
 ---
 

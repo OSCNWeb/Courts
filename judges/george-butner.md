@@ -1,8 +1,8 @@
----
+﻿---
 fname: 'George'
 lname: 'Butner'
 id: 606
-published: false
+published: False
 layout: judge-bio
 ---
 

@@ -1,8 +1,8 @@
----
+﻿---
 fname: 'Jana'
 lname: 'Wallace'
 id: 1003
-published: false
+published: False
 layout: judge-bio
 ---
 

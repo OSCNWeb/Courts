@@ -1,8 +1,8 @@
----
+﻿---
 fname: 'Terrell'
 lname: 'Crosson'
 id: 983
-published: false
+published: False
 layout: judge-bio
 ---
 

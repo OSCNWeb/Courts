@@ -1,8 +1,8 @@
----
+﻿---
 fname: 'Tammy'
 lname: 'Bruce'
 id: 1058
-published: false
+published: False
 layout: judge-bio
 ---
 

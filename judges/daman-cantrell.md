@@ -1,8 +1,8 @@
----
+﻿---
 fname: 'Daman'
 lname: 'Cantrell'
 id: 671
-published: false
+published: False
 layout: judge-bio
 ---
 

@@ -1,12 +1,11 @@
----
-fname: Allen
-lname: Welch
+﻿---
+fname: 'Allen'
+lname: 'Welch'
 id: 907
-published: true
+published: False
 layout: judge-bio
 ---
-Allen Welch was born in Bitburg, Germany, as an Air Force dependent.
-During his child-hood, he lived in Montana, Nevada, Mississippi,
+hood, he lived in Montana, Nevada, Mississippi,
 California, Ohio and Oklahoma.
 
 He received a Bachelor's Degree from East Central University in Ada,

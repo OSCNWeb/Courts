@@ -1,8 +1,8 @@
----
+﻿---
 fname: 'Cindy Ferrell'
 lname: 'Ashwood'
 id: 1036
-published: false
+published: False
 layout: judge-bio
 ---
 

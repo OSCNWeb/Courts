@@ -1,8 +1,8 @@
----
+﻿---
 fname: 'Rebecca'
 lname: 'Gore'
 id: 1025
-published: false
+published: False
 layout: judge-bio
 ---
 

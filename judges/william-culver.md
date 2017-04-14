@@ -1,8 +1,8 @@
----
+﻿---
 fname: 'William'
 lname: 'Culver'
 id: 618
-published: false
+published: False
 layout: judge-bio
 ---
 

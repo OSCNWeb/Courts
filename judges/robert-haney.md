@@ -1,8 +1,8 @@
----
+﻿---
 fname: 'Robert'
 lname: 'Haney'
 id: 604
-published: false
+published: False
 layout: judge-bio
 ---
 

@@ -1,8 +1,8 @@
----
+﻿---
 fname: 'Douglas'
 lname: 'Golden'
 id: 909
-published: false
+published: False
 layout: judge-bio
 ---
 

@@ -1,8 +1,8 @@
----
+﻿---
 fname: 'Steve'
 lname: 'Stice'
 id: 1021
-published: false
+published: False
 layout: judge-bio
 ---
 

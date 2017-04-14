@@ -1,8 +1,8 @@
----
+﻿---
 fname: 'Walter'
 lname: 'Hamilton'
 id: 1139
-published: false
+published: False
 layout: judge-bio
 ---
 

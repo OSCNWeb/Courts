@@ -1,8 +1,8 @@
----
+﻿---
 fname: 'Phillip'
 lname: 'Corley'
 id: 626
-published: false
+published: False
 layout: judge-bio
 ---
 

@@ -1,8 +1,8 @@
----
+﻿---
 fname: 'Katherine'
 lname: 'Thomas'
 id: 1044
-published: false
+published: False
 layout: judge-bio
 ---
 

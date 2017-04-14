@@ -1,8 +1,8 @@
----
+﻿---
 fname: 'Larry'
 lname: 'Shaw'
 id: 880
-published: false
+published: False
 layout: judge-bio
 ---
 

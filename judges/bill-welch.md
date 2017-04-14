@@ -1,8 +1,8 @@
----
+﻿---
 fname: 'Bill'
 lname: 'Welch'
 id: 615
-published: false
+published: False
 layout: judge-bio
 ---
 

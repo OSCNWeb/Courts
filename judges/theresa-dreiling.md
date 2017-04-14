@@ -1,8 +1,8 @@
----
+﻿---
 fname: 'Theresa'
 lname: 'Dreiling'
 id: 952
-published: false
+published: False
 layout: judge-bio
 ---
 

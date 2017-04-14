@@ -1,8 +1,8 @@
----
+﻿---
 fname: 'Thomas'
 lname: 'Alford'
 id: 112
-published: false
+published: False
 layout: judge-bio
 ---
 

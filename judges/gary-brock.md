@@ -1,8 +1,8 @@
----
+﻿---
 fname: 'Gary'
 lname: 'Brock'
 id: 817
-published: false
+published: False
 layout: judge-bio
 ---
 
