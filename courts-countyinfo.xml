@@ -21,6 +21,6 @@ permalink : Inetpub/Resources/templates/courts/courts-countyinfo.xml
     <phone>({{county.phone | slice: 0,3}}) {{county.phone | slice: 3,3}}-{{county.phone | slice: 6,4}}</phone>
     {%assign faxsize = county.fax | size%}{%if faxsize > 0%}<fax>({{county.fax | slice: 0,3}}) {{county.fax | slice: 3,3}}-{{county.fax | slice: 6,4}}</fax>{%endif%}
     <system>1</system>
-	{%if county.website != nil%}<website>{{county.website}}</website>{%endif%}
+	{%assign website = county.website | size%}{%if website > 0%}<website>{{county.website}}</website>{%endif%}
   </County>{%endfor%}</Counties>
 
