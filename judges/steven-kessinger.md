@@ -1,11 +1,18 @@
-﻿---
-fname: 'Steven'
-lname: 'Kessinger'
+---
+fname: Steven
+lname: Kessinger
 id: 984
-published: false
+published: true
 layout: judge-bio
 ---
-1982
+Admitted to the Oklahoma Bar - 1989  
+Admitted to practice in the United States District Court for the
+Eastern District of Oklahoma and the Bankruptcy Court for the Eastern
+District
+
+JD, University of Oklahoma - 1989  
+BS, Accounting, East Central University - 1986  
+Byng High School - 1982
 
 From 2008 until his election to the District Judgeship, Judge Kessinger
 served as Special District Judge in Pontotoc County. From 1989 to 1995,

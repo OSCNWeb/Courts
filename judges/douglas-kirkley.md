@@ -1,8 +1,8 @@
-﻿---
-fname: 'Douglas'
-lname: 'Kirkley'
+---
+fname: Douglas
+lname: Kirkley
 id: 979
-published: false
+published: true
 layout: judge-bio
 ---
 Judge Kirkley is married to Regina (McCreary) Kirkley. They were blessed

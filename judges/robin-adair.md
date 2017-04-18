@@ -1,8 +1,8 @@
-﻿---
-fname: 'Robin'
-lname: 'Adair'
+---
+fname: Robin
+lname: Adair
 id: 196
-published: false
+published: true
 layout: judge-bio
 ---
 Judge Robin Adair was born April 6, 1956 in Los Angeles, California.

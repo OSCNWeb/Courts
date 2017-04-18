@@ -1,8 +1,8 @@
-﻿---
-fname: 'F'
-lname: 'VerSteeg'
+---
+fname: F
+lname: VerSteeg
 id: 988
-published: false
+published: true
 layout: judge-bio
 ---
 Judge VerSteeg is the Associate District Judge of Roger Mills County,

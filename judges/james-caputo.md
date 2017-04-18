@@ -1,8 +1,8 @@
-﻿---
-fname: 'James'
-lname: 'Caputo'
+---
+fname: James
+lname: Caputo
 id: 1043
-published: false
+published: true
 layout: judge-bio
 ---
 Judge James M. Caputo was born raised and educated in Boston

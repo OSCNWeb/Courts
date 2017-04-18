@@ -1,8 +1,8 @@
-﻿---
-fname: 'Ray'
-lname: 'Elliott'
+---
+fname: Ray
+lname: Elliott
 id: 600
-published: false
+published: true
 layout: judge-bio
 ---
 Judge Elliott grew up in southwest Oklahoma and attended Blair High School. He received his undergraduate degree and his masters degree from Southwestern Oklahoma State University in 1974 and 1975, respectively.

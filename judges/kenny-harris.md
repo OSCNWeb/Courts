@@ -1,8 +1,8 @@
-﻿---
-fname: 'Kenny'
-lname: 'Harris'
+---
+fname: Kenny
+lname: Harris
 id: 624
-published: false
+published: true
 layout: judge-bio
 ---
 Judge Ken Harris, a native Lawtonian, holds a BA Journalism from Univ.
@@ -19,7 +19,7 @@ systemic problems in the criminal justice system and prison
 overcrowding.
 
 Following four terms in the House, he returned as Lawton's assistant
-city attorney defending Â§ 1983, civil rights complaints before the
+city attorney defending § 1983, civil rights complaints before the
 10th Circuit Court of Appeals. Judge Harris became Lawton's municipal
 judge in 1992, until in April 1999, he was picked for his current
 position as Special Judge for the 5th Judicial District sitting in

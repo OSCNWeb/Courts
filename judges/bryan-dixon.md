@@ -1,11 +1,21 @@
-﻿---
-fname: 'Bryan'
-lname: 'Dixon'
+---
+fname: Bryan
+lname: Dixon
 id: 270
-published: false
+published: true
 layout: judge-bio
 ---
-County Grand Jury.
+Judge Dixon is the Senior District Judge in Oklahoma County having
+served over 32 years on the bench. He began his judicial service as a
+Special Judge on January 10, 1983, serving until he was appointed a
+District Judge on December 26, 1985. He is assigned to the civil
+division and has tried more than 650 jury trials. Judge Dixon served
+twice as the Presiding Judge for Oklahoma-Canadian Counties in 1999-2000
+and in 1992. He has been on the Court on the Judiciary, Trial and
+Appellate Divisions, since 1995. He currently is a member of the
+Appellate Division and has served as the Presiding and Vice Presiding
+Judge of both divisions. Judge Dixon was the Presiding Judge of the
+10^th^ Multi-County Grand Jury.
 
 Judge Dixon is a Past President of the Oklahoma County Bar Association
 (OCBA) and served on the OCBA Board and the Bench and Bar Committee for

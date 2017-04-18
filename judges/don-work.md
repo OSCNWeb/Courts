@@ -1,8 +1,8 @@
-﻿---
-fname: 'Don'
-lname: 'Work'
+---
+fname: Don
+lname: Work
 id: 996
-published: false
+published: true
 layout: judge-bio
 ---
 Judge Work was born in 1952 in Alva Oklahoma. He graduated with High

@@ -1,8 +1,8 @@
-﻿---
-fname: 'Jennifer'
-lname: 'McBee'
+---
+fname: Jennifer
+lname: McBee
 id: 1078
-published: false
+published: true
 layout: judge-bio
 ---
 Jennifer Henshaw McBee a Special District Judge in LeFlore County.  She previously served Pittsburg County as a Special District Judge. 

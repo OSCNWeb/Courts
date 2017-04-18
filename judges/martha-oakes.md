@@ -1,11 +1,16 @@
-﻿---
-fname: 'Martha'
-lname: 'Oakes'
+---
+fname: Martha
+lname: Oakes
 id: 1009
-published: false
+published: true
 layout: judge-bio
 ---
-2010. In 2010, she was appointed Special Judge for Oklahoma
+Judge Martha Oakes is a native of Ardmore, Oklahoma and graduated from
+Ardmore High School. She earned a Bachelor of Business Degree (1985) and
+Juris Doctorate (1990) from the University of Oklahoma. After graduating
+from law school she was an Assistant District Attorney in Grady County
+from 1991-1998 and Assistant General Counsel for Oklahoma Tax Commission
+from 1998-2010. In 2010, she was appointed Special Judge for Oklahoma
 County and she was sworn in on March 1, 2010. Judge Oakes presided over
 the Drug and DUI court program for over five years. Currently, Judge
 Oakes is assigned to the domestic and family law docket.

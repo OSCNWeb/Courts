@@ -1,6 +1,6 @@
-﻿---
-fname: 'Lori'
-lname: 'Puckett'
+---
+fname: Lori
+lname: Puckett
 id: 1148
 published: false
 layout: judge-bio

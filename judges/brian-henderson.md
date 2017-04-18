@@ -1,8 +1,8 @@
-﻿---
-fname: 'Brian'
-lname: 'Henderson'
+---
+fname: Brian
+lname: Henderson
 id: 956
-published: false
+published: true
 layout: judge-bio
 ---
 Brian Henderson grew up in Stigler, Oklahoma and is a 1991 graduate of
@@ -12,8 +12,8 @@ went on to University of Oklahoma College of Law and earned his Juris
 Doctorate in 1998. Brian was Order of Coif and received the Nathan
 Scarritt Prize for graduating first in his class. He earned an American
 Jurisprudence Award (highest grade in the class) in 12 classes while at
-the University of Oklahoma College of Law: Civil Procedure I Â§ 4; Civil
-Procedure II Â§ 4; Property II Â§ 4; Constitutional Law Â§ 2; Evidence Â§ 1;
+the University of Oklahoma College of Law: Civil Procedure I § 4; Civil
+Procedure II § 4; Property II § 4; Constitutional Law § 2; Evidence § 1;
 Individual Income Tax; Land Finance; Oil & Gas; Administrative Law;
 Federal Courts; Insurance; and Remedies.
 

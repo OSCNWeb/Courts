@@ -1,8 +1,8 @@
-﻿---
-fname: 'Doris'
-lname: 'Fransein'
+---
+fname: Doris
+lname: Fransein
 id: 458
-published: false
+published: true
 layout: judge-bio
 ---
 District Judge Doris L. Fransein is a 1981 graduate of the University of

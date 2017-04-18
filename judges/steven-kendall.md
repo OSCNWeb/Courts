@@ -1,6 +1,6 @@
-﻿---
-fname: 'Steven'
-lname: 'Kendall'
+---
+fname: Steven
+lname: Kendall
 id: 1082
 published: false
 layout: judge-bio

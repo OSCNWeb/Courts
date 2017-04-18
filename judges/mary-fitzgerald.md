@@ -1,8 +1,8 @@
-﻿---
-fname: 'Mary'
-lname: 'Fitzgerald'
+---
+fname: Mary
+lname: Fitzgerald
 id: 898
-published: false
+published: true
 layout: judge-bio
 ---
 Judge Mary Fitzgerald was elected in November of 2006 and was

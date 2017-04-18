@@ -1,7 +1,0 @@
----
-permalink : judges-current.xml
----
-{% assign judges = site.data.judges %}{% for judge in site.data.cross-jurisdication-judges %}{% assign judges = judges | push: judge %}{% endfor %}
-{% assign filter-judges = judges | group_by: "id" %}<Judges>{% for item in filter-judges %}<Judge ocisjudgeid="{{item.items[0].id}}" fname="{{item.items[0].fname}}" mname="" lname="{{item.items[0].lname}}" judgetitle="{{item.items[0].title}}" judgetype="{{item.items[0].type}}" profilepicture="{{item.items[0].image}}" biography="1">
-{% for entry in item.items %}<location county="{{entry.county}}" name="{{entry.address1}}" address="{{entry.address2}}" city="{{entry.city}}" state="{{entry.state}}" zipcode="{{entry.zipcode}}" district="{{entry.district}}" phone="{{entry.phone}}" station="{%if forloop.index > 1 %}secondary{%else%}primary{%endif%}" />
-{% endfor %}</Judge>{% endfor %}</Judges>

@@ -1,6 +1,6 @@
-﻿---
-fname: 'Russell'
-lname: 'Hall'
+---
+fname: Russell
+lname: Hall
 id: 317
 published: false
 layout: judge-bio

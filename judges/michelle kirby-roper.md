@@ -1,11 +1,18 @@
-﻿---
-fname: 'Michelle Kirby'
-lname: 'Roper'
+---
+fname: Michelle Kirby
+lname: Roper
 id: 1030
-published: false
+published: true
 layout: judge-bio
 ---
-Roper grew up in Elk City,
+Judge Michelle Kirby Roper is in her second term as the Associate
+District Judge of Beckham County. As the Associate District Judge, she
+handles litigation involving family and children matters, criminal
+cases, small claims, mental health cases and protective order hearings.
+Judge Kirby Roper also presides over Beckham County / Roger Mills Drug
+Court, which has over sixty participants. Judge Kirby Roper was awarded
+the Oklahoma CASA organization "Judge of the Year" in 2014 and has been
+the Beckham County Bar President. Judge Kirby-Roper grew up in Elk City,
 Oklahoma and moved back to her hometown after practicing law in Oklahoma
 City for many years. She enjoys being back in her small town where her
 children have thrived. She has been married to Chad Roper for over

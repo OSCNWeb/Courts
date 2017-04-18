@@ -1,6 +1,6 @@
-﻿---
-fname: 'Larry'
-lname: 'Shaw'
+---
+fname: Larry
+lname: Shaw
 id: 880
 published: false
 layout: judge-bio

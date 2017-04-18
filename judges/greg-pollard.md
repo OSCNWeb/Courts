@@ -1,11 +1,19 @@
-﻿---
-fname: 'Greg'
-lname: 'Pollard'
+---
+fname: Greg
+lname: Pollard
 id: 1131
-published: false
+published: true
 layout: judge-bio
 ---
-1990
+Admitted to the Oklahoma Bar - 2003  
+Admitted to practice in the United States Circuit Court of Appeals for
+the 10th Circuit and the United States District Court for the Western
+District of Oklahoma
+
+JD, Oklahoma City University - 2002  
+BS, Professional Development, Southwestern University in Waxahachie,
+Texas - 1999  
+Paden High School - 1990
 
 From 2010 until his appointment to the bench, Judge Pollard was in
 private practice as an Associate with Stuart & Clover, LLC, in Shawnee.

@@ -1,11 +1,17 @@
-﻿---
-fname: 'Leland'
-lname: 'Shilling'
+---
+fname: Leland
+lname: Shilling
 id: 1128
-published: false
+published: true
 layout: judge-bio
 ---
-1970
+Admitted to the Oklahoma Bar - 1996  
+Admitted to practice in the United States District Court for the
+Western District of Oklahoma
+
+JD, Oklahoma City University - 1995  
+BS, History and Spanish, State University of New York, Albany - 1984  
+Menaul High School, Albuquerque, New Mexico - 1970
 
 From 2001 to 2014, Judge Shilling was a Municipal Judge in Purcell,
 Oklahoma. He has also served as Municipal Judge in Wayne and Goldsby,

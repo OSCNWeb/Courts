@@ -1,11 +1,18 @@
-﻿---
-fname: 'Caroline'
-lname: 'Wall'
+---
+fname: Caroline
+lname: Wall
 id: 861
-published: false
+published: true
 layout: judge-bio
 ---
-2007, Judge Wall served as Associate District Judge of Tulsa
+Admitted to the Oklahoma Bar - 1995  
+Admitted to the Illinois Bar - 1990
+
+JD, Loyola University of Chicago - 1990  
+BA, Psychology, Northwestern University, Evanston, IL - 1986  
+Tulsa Edison High School - 1982
+
+From 2003-2007, Judge Wall served as Associate District Judge of Tulsa
 County. Judge Wall previously served as Chief Judge of the Criminal
 Division of Tulsa County District Court. Prior to being elected
 Associate District Judge in 2002, she was an associate with the firm of

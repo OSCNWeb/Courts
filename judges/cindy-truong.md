@@ -1,8 +1,8 @@
-﻿---
-fname: 'Cindy'
-lname: 'Truong'
+---
+fname: Cindy
+lname: Truong
 id: 1039
-published: false
+published: true
 layout: judge-bio
 ---
 Judge Cindy Truong was elected to the Bench by the voters of Oklahoma

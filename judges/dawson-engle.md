@@ -1,8 +1,8 @@
-﻿---
-fname: 'Dawson'
-lname: 'Engle'
+---
+fname: Dawson
+lname: Engle
 id: 917
-published: false
+published: true
 layout: judge-bio
 ---
 Judge Engle was born March 14, 1973 in Midwest City, Oklahoma. He

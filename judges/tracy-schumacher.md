@@ -1,8 +1,8 @@
-﻿---
-fname: 'Tracy'
-lname: 'Schumacher'
+---
+fname: Tracy
+lname: Schumacher
 id: 1032
-published: false
+published: true
 layout: judge-bio
 ---
 Tracy Schumacher was elected to the bench in November of 2010. Prior to

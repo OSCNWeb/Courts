@@ -1,11 +1,15 @@
-﻿---
-fname: 'Jason'
-lname: 'Seigars'
+---
+fname: Jason
+lname: Seigars
 id: 1149
-published: false
+published: true
 layout: judge-bio
 ---
-Chief of the
+Judge Jason Seigars was appointed Special District Judge in Garfield
+County in January of 2017. Judge Seigars graduated with a B.S. in
+Business Administration from Oklahoma State University and received his
+J. D. from the University of Tulsa, College of Law in 2011. While
+attending law school, Judge Seigars was the Editor-in-Chief of the
 Energy Bar Journal, received the Sustainable Energy and Natural
 Resources Law Certificate, served an internship with the United States
 Attorney's Office for the Northern District of Oklahoma, and served as a

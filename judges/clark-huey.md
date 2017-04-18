@@ -1,6 +1,6 @@
-﻿---
-fname: 'Clark'
-lname: 'Huey'
+---
+fname: Clark
+lname: Huey
 id: 442
 published: false
 layout: judge-bio

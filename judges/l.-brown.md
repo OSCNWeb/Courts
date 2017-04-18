@@ -1,8 +1,8 @@
-﻿---
-fname: 'L.'
-lname: 'Brown'
+---
+fname: L.
+lname: Brown
 id: 873
-published: false
+published: true
 layout: judge-bio
 ---
 Elizabeth Brown is the Associate District Judge for Adair County. Prior

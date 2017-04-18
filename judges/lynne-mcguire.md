@@ -1,8 +1,8 @@
-﻿---
-fname: 'Lynne'
-lname: 'McGuire'
+---
+fname: Lynne
+lname: McGuire
 id: 1004
-published: false
+published: true
 layout: judge-bio
 ---
 Judge McGuire was appointed Special Judge in Oklahoma County on December

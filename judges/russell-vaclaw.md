@@ -1,6 +1,6 @@
-﻿---
-fname: 'Russell'
-lname: 'Vaclaw'
+---
+fname: Russell
+lname: Vaclaw
 id: 965
 published: true
 layout: judge-bio

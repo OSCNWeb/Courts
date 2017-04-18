@@ -1,11 +1,11 @@
-﻿---
-fname: 'Kirsten'
-lname: 'Pace'
+---
+fname: Kirsten
+lname: Pace
 id: 930
-published: false
+published: true
 layout: judge-bio
 ---
-generation
+Judge Kirsten Pace is an Oklahoma City native and a third-generation
 Oklahoman. She graduated from Duke University (A.B.) and from the
 University of Oklahoma College of Law (J.D. with Distinction). She was
 in private law practice in Oklahoma City and Tulsa from 1990 until 2005

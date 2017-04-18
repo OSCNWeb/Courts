@@ -1,8 +1,8 @@
-﻿---
-fname: 'Aaron'
-lname: 'Duck'
+---
+fname: Aaron
+lname: Duck
 id: 1038
-published: false
+published: true
 layout: judge-bio
 ---
 Judge Aaron Duck is proud to serve as Associate District Judge in his home town of Sulphur, Murray County, Oklahoma, and has been serving as such since January of 2011.  Prior to taking the state bench, Judge Duck was a partner in the Colbert & Duck Law Office, P.C., in Sulphur, Oklahoma, for ten years.  Judge Duck also served as District Judge for the Chickasaw Nation District Court for over six years.  

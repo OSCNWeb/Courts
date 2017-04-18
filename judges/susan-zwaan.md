@@ -1,11 +1,17 @@
-﻿---
-fname: 'Susan'
-lname: 'Zwaan'
+---
+fname: Susan
+lname: Zwaan
 id: 1111
-published: false
+published: true
 layout: judge-bio
 ---
-1976
+Admitted to the Oklahoma Bar - 1997  
+Admitted to practice in the United States Circuit Court of Appeals for
+the 10th Circuit and the United States District Court for the Western
+District of Oklahoma
+
+JD, Oklahoma University - 1997  
+BS, Elementary Education , Cameron University - 1976
 
 From 2007 until her appointment to the bench, Judge Zwaan was an
 Assistant District Attorney in Comanche County. From 2000 to 2007, she

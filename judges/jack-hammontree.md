@@ -1,8 +1,8 @@
-﻿---
-fname: 'Jack'
-lname: 'Hammontree'
+---
+fname: Jack
+lname: Hammontree
 id: 820
-published: false
+published: true
 layout: judge-bio
 ---
 I was born in Kermit, Texas on December 26, 1957. I am currently married

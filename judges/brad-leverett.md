@@ -1,8 +1,8 @@
-﻿---
-fname: 'Brad'
-lname: 'Leverett'
+---
+fname: Brad
+lname: Leverett
 id: 975
-published: false
+published: true
 layout: judge-bio
 ---
 Brad Leverett is a native of Altus and graduated from Oklahoma State University in 1982. He graduated from the OU College of Law in 1985 and served as an Assistant District Attorney for the next 13 years, first in Woods County, and then Garfield County and finally Jackson County. In 1998, he and three other lawyers formed the private law firm of Olson, Hall, Darby and Leverett which continued until he was appointed Special Judge in Jackson County starting in August, 2007.  

@@ -1,8 +1,8 @@
-﻿---
-fname: 'Ronald'
-lname: 'Kincannon'
+---
+fname: Ronald
+lname: Kincannon
 id: 456
-published: false
+published: true
 layout: judge-bio
 ---
-adult children, one having graduated from Oklahoma City University and the other from the University of Oklahoma.
+Judge Ronald Kincannon, born in 1948, was reared in Cimarron County, Oklahoma on the family farm and ranch.  He earned a B.S. in psychology from Oklahoma Panhandle State University in 1970 thereafter being commissioned a Military Intelligence officer in the U. S. Army.  Following active duty, he returned to Oklahoma where, after becoming CLEET certified, he was employed as an Oklahoma Probation & Parole Officer for 6-years, working in that capacity during his first year of law school at Oklahoma City University.  Following graduation in 1982, the family returned to the Oklahoma Panhandle where he practiced general criminal and civil law in both Cimarron and Texas counties.  Judge Kincannon was elected as the Associate District Judge of Cimarron County in 1994, where he continues to now serve. He was honored  by the OBA with the “Pro Bono Service Award” in 1991; by the Oklahoma State Game Ranger Association as “Judge of the Year” in 1996-97; by the Amarillo (Texas) Globe News as the “Outstanding Baby Boomer in the field of Law” in 1985.  Judge Kincannon served as a Rotary International District Governor in 2001-02, taught Business Law as an adjunct professor for 6-years at O. P. S. U., and serves O. P. S. U. as a member of the  University President’s Advisory Council.  Having a lifelong interest in both military and Oklahoma history, Judge Kincannon serves as the President of the No Man’s Land Historical Society, a post he’s held for more than a decade.  In 1990 he was recalled to active duty during the 1st Gulf War, serving a short stint in the Pentagon with the U. S. Army Deputy Chief of Staff, Military Intelligence, continuing his service as a reserve officer until retirement in 1998 with the rank of Lieutenant Colonel.  Ron and his wife Betty have been married for 40-years and have 2-adult children, one having graduated from Oklahoma City University and the other from the University of Oklahoma.

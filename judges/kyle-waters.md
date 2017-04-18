@@ -1,11 +1,18 @@
-﻿---
-fname: 'Kyle'
-lname: 'Waters'
+---
+fname: Kyle
+lname: Waters
 id: 1112
-published: false
+published: true
 layout: judge-bio
 ---
-1995
+Admitted to the Oklahoma Bar - 2002  
+Admitted to the Arkansas Bar - 2002  
+Admitted to practice in the United States Circuit Court of Appeals for
+the 10th Circuit and the United States District Courts for the Eastern
+District of Oklahoma and the Western District of Arkansas JD, University
+of Tulsa - 2002  
+BS, History, Oklahoma State University - 1999  
+Sallisaw High School - 1995
 
 From 2012 until his election to the Associate District Judgeship in
 2014, Judge Waters served as an Assistant United States Attorney in the

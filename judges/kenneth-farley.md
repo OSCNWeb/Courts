@@ -1,11 +1,14 @@
-﻿---
-fname: 'Kenneth'
-lname: 'Farley'
+---
+fname: Kenneth
+lname: Farley
 id: 1076
-published: false
+published: true
 layout: judge-bio
 ---
-8). He also served at the U.S.
+Judge Farley graduated from Haworth, Oklahoma, High School in 1965. He
+graduated from Oklahoma State School of Technical Training in 1967. He
+served in the U.S. Navy from 1967 until 1971. He served aboard the USS
+Proteus (AS-19) and the USS Jason (AR-8). He also served at the U.S.
 Naval Support Activity, DaNang, Vietnam. He graduated from Eastern
 Oklahoma State College with honors in May, 1973 and graduated Phi Beta
 Kappa from the University of Oklahoma in May, 1975. After graduation,

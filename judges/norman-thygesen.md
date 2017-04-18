@@ -1,11 +1,19 @@
-﻿---
-fname: 'Norman'
-lname: 'Thygesen'
+---
+fname: Norman
+lname: Thygesen
 id: 903
-published: false
+published: true
 layout: judge-bio
 ---
-1980, Judge
+Norman D. Thygesen was born in Elizabeth, New Jersey. After high school,
+he enlisted in the United State Air Force, serving until he was
+honorably discharged in 1968 with the rank of Sergeant. Thygesen
+graduated from Northeastern State University with a double major in
+psychology and sociology. He worked on an Environmental Impact Study and
+as a teaching assistant while earning a Master's Degree from East Texas
+State University. He spent a couple of years as an East Central
+University professor in Ada, and then a couple years as Regional Planner
+for Northeast Counties of Oklahoma in Vinita. From 1976 - 1980, Judge
 Thygesen was the Assistant Superintendent of Schools in Shawnee, while
 he attended Oklahoma City University's School of Law. He received his
 Juris Doctorate in 1980. After two years with the Department of Economic

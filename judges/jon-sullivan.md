@@ -1,6 +1,6 @@
-﻿---
-fname: 'Jon'
-lname: 'Sullivan'
+---
+fname: Jon
+lname: Sullivan
 id: 957
 published: false
 layout: judge-bio

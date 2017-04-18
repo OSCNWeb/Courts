@@ -1,8 +1,8 @@
-﻿---
-fname: 'Aric'
-lname: 'Alley'
+---
+fname: Aric
+lname: Alley
 id: 1113
-published: false
+published: true
 layout: judge-bio
 ---
 Born in Shattuck, and raised in Woodward, Judge Alley graduated from

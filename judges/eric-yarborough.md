@@ -1,11 +1,16 @@
-﻿---
-fname: 'Eric'
-lname: 'Yarborough'
+---
+fname: Eric
+lname: Yarborough
 id: 1114
-published: false
+published: true
 layout: judge-bio
 ---
-1994
+Admitted to the Oklahoma Bar - 1997  
+Admitted to the Kansas Bar - 1997
+
+JD, Washburn University School of Law, Topeka, Kansas - 1997  
+BA, History and Political Science, Southwestern Oklahoma State
+University - 1994
 
 Immediately prior to his election to the Associate District Judgeship in
 2014, Judge Yarborough served as Assistant District Attorney for Greer

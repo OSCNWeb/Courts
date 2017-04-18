@@ -1,8 +1,8 @@
-﻿---
-fname: 'Millie'
-lname: 'Otey'
+---
+fname: Millie
+lname: Otey
 id: 548
-published: false
+published: true
 layout: judge-bio
 ---
 Judge Millie Otey educational background includes a B.S. from the

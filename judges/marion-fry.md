@@ -1,11 +1,15 @@
-﻿---
-fname: 'Marion'
-lname: 'Fry'
+---
+fname: Marion
+lname: Fry
 id: 1120
-published: false
+published: true
 layout: judge-bio
 ---
-1996
+Admitted to the Oklahoma Bar - 1999  
+Admitted to the Bar of the Choctaw Nation - 2009
+
+JD, University of Tulsa - 1998  
+BS, Secondary Education, Oklahoma State University - 1996
 
 From 2009 to 2014, Judge Fry served as a judge of the Choctaw Nation
 Court of Appeals. He also served as First Assistant District Attorney

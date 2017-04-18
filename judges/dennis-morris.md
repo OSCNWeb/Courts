@@ -1,6 +1,6 @@
-﻿---
-fname: 'Dennis'
-lname: 'Morris'
+---
+fname: Dennis
+lname: Morris
 id: 1031
 published: false
 layout: judge-bio

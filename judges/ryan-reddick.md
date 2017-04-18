@@ -1,8 +1,8 @@
-﻿---
-fname: 'Ryan'
-lname: 'Reddick'
+---
+fname: Ryan
+lname: Reddick
 id: 806
-published: false
+published: true
 layout: judge-bio
 ---
 I was born in Liberal, Kansas and raised in rural Beaver County,

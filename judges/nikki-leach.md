@@ -1,11 +1,12 @@
-﻿---
-fname: 'Nikki'
-lname: 'Leach'
+---
+fname: Nikki
+lname: Leach
 id: 1084
-published: false
+published: true
 layout: judge-bio
 ---
-Orlando high school graduating in 1977. He
+Judge Nikki (Nick) G. Leach was born and raised on a farm near Orlando,
+Oklahoma. He attended Mulhall-Orlando high school graduating in 1977. He
 then attended Oklahoma State University graduating in 1981 with a degree
 in Accounting. After graduation from college, Judge Leach entered the
 U.S. Army and spent 10 years on active duty and the reserves in the

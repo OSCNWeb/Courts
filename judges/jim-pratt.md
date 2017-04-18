@@ -1,8 +1,8 @@
-﻿---
-fname: 'Jim'
-lname: 'Pratt'
+---
+fname: Jim
+lname: Pratt
 id: 960
-published: false
+published: true
 layout: judge-bio
 ---
 James R. (Jim) Pratt was admitted to the Bar in April, 1977. From 1979

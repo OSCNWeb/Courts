@@ -1,8 +1,8 @@
-﻿---
-fname: 'Trisha'
-lname: 'Misak'
+---
+fname: Trisha
+lname: Misak
 id: 939
-published: false
+published: true
 layout: judge-bio
 ---
 Special Judge Trisha Misak graduated *summa cum laude* with a degree in

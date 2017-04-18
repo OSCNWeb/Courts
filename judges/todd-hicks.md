@@ -1,8 +1,8 @@
-﻿---
-fname: 'Todd'
-lname: 'Hicks'
+---
+fname: Todd
+lname: Hicks
 id: 1121
-published: false
+published: true
 layout: judge-bio
 ---
 T. Todd Hicks was elected in November 2014 as Associate District Judge for Love County.  Prior to taking the bench, Judge Hicks practiced law, first as an associate with Ken Elliot, then for fourteen years as a solo practitioner. 

@@ -1,8 +1,8 @@
-﻿---
-fname: 'Christopher'
-lname: 'Kelly'
+---
+fname: Christopher
+lname: Kelly
 id: 969
-published: false
+published: true
 layout: judge-bio
 ---
 Judge Christopher S. Kelly was elected Associate District Judge for

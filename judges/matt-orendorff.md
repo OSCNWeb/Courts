@@ -1,11 +1,15 @@
-﻿---
-fname: 'Matt'
-lname: 'Orendorff'
+---
+fname: Matt
+lname: Orendorff
 id: 1133
-published: false
+published: true
 layout: judge-bio
 ---
-2000
+Admitted to the Oklahoma Bar - 2008
+
+JD, Oklahoma City University - 2008  
+BA, Politics - Hendrix College, Conway, Arkansas - 2005  
+Sallisaw High School - 2000
 
 From 2008 until his appointment to the Special Judgeship in 2015, Judge
 Orendorff was in private practice with his father at their firm,
