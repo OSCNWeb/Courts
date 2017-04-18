@@ -23,4 +23,3 @@ permalink : Inetpub/Resources/templates/courts/courts-countyinfo.xml
     <system>1</system>
 	{%assign website = county.website | size%}{%if website > 0%}<website>{{county.website}}</website>{%endif%}
   </County>{%endfor%}</Counties>
-
