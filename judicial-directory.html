@@ -1,0 +1,27 @@
+---
+---
+{% assign district = site.data.judges | where: 'type', 'District'%}
+{% assign associate = site.data.judges | where: 'type', 'Associate District'%}
+{% assign special = site.data.judges | where: 'type', 'Special'%}
+{% assign clerks = site.data.county %}
+<!-- supreme court -->
+<h2>The Supreme Court of Oklahoma</h2>
+<!-- court of criminal appeals -->
+<h2>Court of Criminal Appeals</h2>
+<!-- court of civil appeals -->
+<h2>Court of Civil Appeals</h2>
+<!-- district -->
+<h2>Oklahoma District Judges</h2>
+{% for judge in district%} {{judge.lname}} {%endfor%}
+<!-- associate -->
+<h2>Oklahoma Associate District Judges</h2>
+{% for judge in associate%} {{judge.lname}} {%endfor%}
+<!-- special -->
+<h2>Oklahoma Special Judges</h2>
+{% for judge in special%} {{judge.lname}} {%endfor%}
+<!-- clerks -->
+<h2>Oklahoma Special Judges</h2>
+{% for clerk in clerks%} {{clerk.clerk}} {%endfor%}
+<!-- judge listing -->
+<h2>Judge Listing</h2>
+{% for judge in site.data.judges%} {{judge.lname}} {%endfor%}
