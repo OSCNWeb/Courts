@@ -1,0 +1,11 @@
+{%if judge.title == 'Justice'%}{%assign position = judge.title | append: forloop.index%}{%else%}{%assign position = judge.title | replace: ' ','_'%}{%endif%}
+<li class="{{position}}">
+<div>
+<img class="picture" src="http://www.oscn.net/images/judges/id/{{judge.fname}}{{judge.lname}}.jpg" />
+<span class="name">{{judge.title}} {{judge.fname}} {{judge.lname}}</span>
+<span class="court">{{judge.address1}}</span>
+<span class="address">{{judge.address2}}</span>
+<span class="phone">({{judge.phone | slice: 0,3 }}) {{judge.phone | slice: 3,3 }}-{{judge.phone | slice: 6,4 }}</span>
+<span class="district">{{judge.notes | split: ',' | last}}</span>
+</div>
+</li>
