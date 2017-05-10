@@ -1,0 +1,185 @@
+@page { margin: 0.5in 0.75in; }
+ul { padding: 0px; margin: 0px;}
+li { list-style: none; }
+body{text-align: center;}
+.group { text-align: left; width: 100%; clear: both; float: none; page-break-before: always;} /*not breaking before civil appeals or The_Supreme_Court_of_Oklahoma*/
+
+
+
+
+
+
+/*li { list-style: none; display: inline-block;  width: 120px; height: 250px; vertical-align:top;}*/      
+    @page { margin: 0.5in 0.75in; }                                                                                             
+    * { position: relative; font-family: Times New Roman;}
+    ul { padding: 0px; margin: 0px;}
+    li { list-style: none; }
+    .group { text-align: left; width: 100%; clear: both; float: none; page-break-before: always;} /*not breaking before civil appeals or The_Supreme_Court_of_Oklahoma*/
+    body{text-align: center;}
+    #District li div, #Associate_District li div, #Special li div, #Workers_Compensation_Court li div {display: block; clear:both; width: 125px; height: 230px; margin: 0px 0px; page-break-inside: avoid; border: solid 0px black; }
+    #Court_Clerks_Directory li div {display: block; clear:both; margin: 0px 0px; page-break-inside: avoid; border: solid 0px black; }
+    .group li {width: 130px; margin-left: 0px; margin-right: 0px;
+              text-align: center; font-family: Times New Roman;
+              font-size:small; 
+                /*IE HACK FOR INLINE BLOCK*/
+                display:-moz-inline-stack;
+                display:inline-block;
+                zoom:1;
+                *display:inline;
+                /*END*/
+              vertical-align:top;
+              page-break-inside: avoid;
+              }
+        .group li span {line-height: normal;
+        }
+    .group li img { width: 96%; margin: 2px 0px; }
+    .group .name { font-size: 12px; font-weight: bold; }
+    .name, .address, .address2, .phone { display: block; margin: 0px; padding: 0px; }
+    #District .courthouse, #Associate_District .courthouse, #Special .courthouse, 
+    #District .court,   #Associate_District .court,   #Special .court, 
+    #District .phone,   #Associate_District .phone,   #Special .phone 
+    { font-size: 11px; display: block;}
+    .address, .address2 {
+        font-size: 10px;
+    }
+    /*DOCUMENT*/
+    #Document { width: 650px/*612*/; margin: 0px auto;}
+    
+    /*HEADINGS*/
+    .header { border: 2px solid #000066; padding: 0.3em 0em; margin-bottom: 0.4em; }
+    .header h4 { width: 100%; text-align: center;
+                 color: #000066; text-transform: uppercase; font-family: Times New Roman;
+                 font-size: 1.50em; font-weight: bolder; margin: 0px 0px; padding: 0px 0px;}
+    .header h5 { margin: 0px 0px; padding: 0px 0px; }
+    .header span {display: block; width: 100%; text-align: center;
+                 color: #000066; text-transform: uppercase; font-family: Times New Roman;
+                 font-size: 0.75em; font-weight: bolder; margin: 0px 0px; padding: 0px 0px;}
+    
+    /*JUDICIAL DIRECTORY HEADING*/
+    #judicialDirectory {width: 100%; text-align: center; border: 2px solid #000066;
+                       color: #000066; text-transform: uppercase; font-family: Times New Roman;
+                       font-size: 1.75em; font-weight: bolder; padding: 0.2em 0em;}
+    
+    /*SUPREME COURT*/
+    #The_Supreme_Court_of_Oklahoma { page-break-before: avoid; height: 820px/*792px*/;}
+    #The_Supreme_Court_of_Oklahoma .header { margin: 0px 0px; padding: 0px 0px; border: 0px solid white; }
+    #The_Supreme_Court_of_Oklahoma h4 {width: 100%; background-color: #000066; color: White;
+                                      font-family: Times New Roman; font-size: large;
+                                      font-style:italic; font-weight: bolder; text-align: center;
+                                      text-transform: uppercase; padding: 0.2em 0em; margin: 0em 0em;
+                                      border: 2px solid #000066; font-size: 1.5em; height: 30px;} 
+    #The_Supreme_Court_of_Oklahoma li {   width: 150px; padding: 8px;
+                                          height: 250px;
+                                          text-align: center; font-family: Times New Roman;
+                                          font-size:11px; display: inline-block;}
+    #The_Supreme_Court_of_Oklahoma li img { display: block; margin: 0px auto;}   
+    
+    .seal { width: 135px; position: absolute; top: 110px; right: 265px; }
+                                 
+    .Chief_Justice { position: absolute; left: 40px; top: 0; }
+    .Vice_Chief_Justice { position: absolute; right: 60px; top: 0;}
+    #The_Supreme_Court_of_Oklahoma .Vice_Chief_Justice, #The_Supreme_Court_of_Oklahoma .Chief_Justice { width: 170px;}    
+    #The_Supreme_Court_of_Oklahoma .Vice_Chief_Justice img, #The_Supreme_Court_of_Oklahoma .Chief_Justice img { width: 80%; padding-bottom: 3px;}  
+                                    
+    .Justice1,.Justice2,.Justice3,.Justice4,.Justice5,.Justice6,.Justice7 {position: absolute;}
+    #The_Supreme_Court_of_Oklahoma .Justice1 img, #The_Supreme_Court_of_Oklahoma .Justice2 img, #The_Supreme_Court_of_Oklahoma .Justice3 img, 
+    #The_Supreme_Court_of_Oklahoma .Justice4 img, #The_Supreme_Court_of_Oklahoma .Justice5 img, #The_Supreme_Court_of_Oklahoma .Justice6 img,
+    #The_Supreme_Court_of_Oklahoma .Justice7 img { width: 85%; padding-bottom: 3px;  height: 150px;}
+    .Justice1 {top: 270px; left: 80px;}                                                       
+    .Justice2 {top: 270px; left: 230px;}                                                       
+    .Justice3 {top: 270px; left: 380px;}                                                       
+    .Justice4 {top: 520px; left: 10px;}                                                       
+    .Justice5 {top: 520px; left: 160px;}                                                       
+    .Justice6 {top: 520px; left: 310px;}                                                       
+    .Justice7 {top: 520px; left: 460px;}  
+     
+    
+    /*COURT OF CRIMINAL APPEALS*/
+    #Court_of_Criminal_Appeals { margin-bottom: 5px; }
+    #Court_of_Criminal_Appeals li { width: 114px; margin-left: 8px; margin-right: 8px; margin-bottom: 0px; font-size: 12px;}
+    
+    /*COURT OF CIVIL APPEALS*/
+    #Court_of_Civil_Appeals { page-break-before: avoid; height: 650px; }
+    #Court_of_Civil_Appeals li { display: none; height: 142px; font-size: 10px; width: 120px;}
+    #Court_of_Civil_Appeals li .name { font-weight: normal; overflow:visible; }
+    #Court_of_Civil_Appeals .Judge div { text-align: center;}
+    #Court_of_Civil_Appeals img { height: 103px;  width: 71%; display: block; margin: 0px auto; margin-bottom: 0.2em; }
+    #WilliamHetherington_Jr .name { width: 108%; margin-left: -4%; }
+    .div1       { position: absolute; top: 120px; left: 80px; text-transform: uppercase; font-weight: bold; color: #000066; font-size: large; }
+    .div2       { position: absolute; top: 410px; left: 80px; text-transform: uppercase; font-weight: bold; color: #000066; font-size: large; }
+    .div3       { position: absolute; top: 265px; left: 80px; text-transform: uppercase; font-weight: bold; color: #000066; font-size: large; }
+    .div4       { position: absolute; top: 555px; left: 80px; text-transform: uppercase; font-weight: bold; color: #000066; font-size: large; }
+    .okc        { position: absolute; top: 185px; left: 20px; text-transform: uppercase; font-weight: bold; color: #000066; font-size: large; font-style:italic; display: block; text-align: center; width: 145px; }
+    .tul        { position: absolute; top: 485px; left: 10px; text-transform: uppercase; font-weight: bold; color: #000066; font-size: large; font-style:italic; display: block; text-align: center; width: 145px; }
+    .civilbar   { position: absolute; top: 365px; left: 0px; text-transform: uppercase; font-weight: bold; color: #000066; font-size: large; display: block; width: 100%; background-color: #000066; height: 2px; }
+    
+    #Court_of_Civil_Appeals li .name { font-size: 11px; }
+    #Court_of_Civil_Appeals li { position:absolute; display: none; }
+    #Court_of_Civil_Appeals .Division1 { top: 0px; display: block; }
+    #Court_of_Civil_Appeals .Division3 { top: 145px; display: block; }
+    #Court_of_Civil_Appeals .Division2 { top: 290px; display: block; }
+    #Court_of_Civil_Appeals .Division4 { top: 435px; display: block; }
+    #Court_of_Civil_Appeals .position1 { right: 280px; }
+    #Court_of_Civil_Appeals .position2 { right: 140px; }
+    #Court_of_Civil_Appeals .position3 { right: 0px; }
+    #Court_of_Civil_Appeals .position4,
+    #Court_of_Civil_Appeals .position5,
+    #Court_of_Civil_Appeals .position6 { display: none; }
+    
+/*
+    W._KeithRapp
+    DougGabbard,_II
+    JaneWiseman
+    WilliamHetherington,_Jr.
+    JerryGoodman
+    LarryJoplin
+    E._BayMitchell
+    KennethBuettner
+    P._ThomasThornbrugh
+    RobertBell
+    JohnFischer
+    DeborahBarnes
+    BrianGoree
+    ------CarolHansen
+    */
+    /*ALL TRIAL JUDGES*/
+    /*DISTRICT JUDGES*/
+    
+    /*ASSOCIATE DISTRICT JUDGES*/
+    /*SPECIAL JUDGES*/
+    /*WORKERS COMPENSATION COURT*/
+    #workers_compensation_court li{ margin: 0px 0px 20px 0px;  }
+    
+    /*COURT CLERKS*/
+    #Court_Clerks_Directory { page-break-before:always; } 
+    #Court_Clerks_Directory li { width: 24%; margin: 5px 0px;
+              text-align: center; font-family: Times New Roman;
+              font-size:small; 
+                /*IE HACK FOR INLINE BLOCK*/
+                display:-moz-inline-stack;
+                display:inline-block;
+                zoom:1;
+                *display:inline;
+                /*END*/
+              vertical-align:top;
+              page-break-inside: avoid;
+              }
+    #Court_Clerks_Directory .address  { font-size: 12px; }
+    #Court_Clerks_Directory .court { }
+    #Court_Clerks_Directory img { display: none; }
+    #Court_Clerks_Directory .hiddenInfo { display: block; }
+    #Court_Clerks_Directory .hiddenInfo a { color: #00008B; text-decoration: none;  }
+    
+    /*ALL*/
+    #Alphabetical_Judges_Listing .hiddenInfo  { display: none; }
+    #Alphabetical_Judges_Listing a{ color: Black; text-decoration: none; width: 100%; position: relative;}
+    #Alphabetical_Judges_Listing li { width: 99%; display: inline-block; text-align: left; height: 13px; }
+    #Alphabetical_Judges_Listing span { display: inline-block;vertical-align: top; overflow: hidden; font-size: 12px;}
+    #Alphabetical_Judges_Listing .name { width: 32%; margin-left: 2%; font-weight:normal;}
+    #Alphabetical_Judges_Listing .court { width: 32%; text-align: center;}
+    #Alphabetical_Judges_Listing .address { width: 32%; text-align: right;}
+    #Alphabetical_Judges_Listing .picture { display: none; }
+    
+    .group li {float: left;}
+    #Court_Clerks_Directory li { float: none; }
+    .hiddenInfo { display: none;}

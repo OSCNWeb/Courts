@@ -1,28 +1,108 @@
 ---
 ---
+{% assign chief = site.data.judges | where: 'county', 'SUPREME COURT' | where: 'title', 'Chief Justice'%}
+{% assign vice-chief = site.data.judges | where: 'county', 'SUPREME COURT' | where: 'title', 'Vice Chief Justice'%}
+{% assign supreme = site.data.judges | where: 'county', 'SUPREME COURT' | where: 'title', 'Justice' | sort: 'notes'%}
+
+{% assign presiding = site.data.judges | where: 'county', 'COURT OF CRIMINAL APPEALS' | where: 'title','Presiding Judge' | sort: 'notes'%}
+{% assign vice-presiding = site.data.judges | where: 'county', 'COURT OF CRIMINAL APPEALS' | where: 'title','Vice Presiding Judge' | sort: 'notes'%}
+{% assign criminal = site.data.judges | where: 'county', 'COURT OF CRIMINAL APPEALS' | where: 'title','Judge' | sort: 'notes'%}
+
+{% assign civil = site.data.judges | where: 'county', 'COURT OF CIVIL APPEALS' | sort: 'notes ' | sort: 'title' %}
+{% assign div1 = site.data.judges | where: 'id', '0'%}{% assign div2 = div1 %}{% assign div3 = div2 %}{% assign div4 = div3 %}
+{% for judge in civil reversed %}{% assign notes = judge.notes | split: ','%}
+	{% if notes[1] contains '1' %}{% if judge.title == 'Presiding Judge'%}{% assign div1 = div1 | unshift: judge %}{% else %}{% assign div1 = div1 | push: judge%}{% endif %}{% endif %}
+	{% if notes[1] contains '2' %}{% if judge.title == 'Presiding Judge'%}{% assign div2 = div2 | unshift: judge %}{% else %}{% assign div2 = div2 | push: judge%}{% endif %}{% endif %}
+	{% if notes[1] contains '3' %}{% if judge.title == 'Presiding Judge'%}{% assign div3 = div3 | unshift: judge %}{% else %}{% assign div3 = div3 | push: judge%}{% endif %}{% endif %}
+	{% if notes[1] contains '4' %}{% if judge.title == 'Presiding Judge'%}{% assign div4 = div4 | unshift: judge %}{% else %}{% assign div4 = div4 | push: judge%}{% endif %}{% endif %}
+{% endfor %}
+
 {% assign district = site.data.judges | where: 'type', 'District'%}
 {% assign associate = site.data.judges | where: 'type', 'Associate District'%}
 {% assign special = site.data.judges | where: 'type', 'Special'%}
 {% assign clerks = site.data.county %}
-<!-- supreme court -->
-<h2>The Supreme Court of Oklahoma</h2>
-<!-- court of criminal appeals -->
-<h2>Court of Criminal Appeals</h2>
-<!-- court of civil appeals -->
-<h2>Court of Civil Appeals</h2>
-<!-- district -->
-<h2>Oklahoma District Judges</h2>
-{% for judge in district%} {{judge.lname}} {%endfor%}
-<!-- associate -->
-<h2>Oklahoma Associate District Judges</h2>
-{% for judge in associate%} {{judge.lname}} {%endfor%}
-<!-- special -->
-<h2>Oklahoma Special Judges</h2>
-{% for judge in special%} {{judge.lname}} {%endfor%}
-<!-- clerks -->
-<h2>Oklahoma Special Judges</h2>
-{% for clerk in clerks%} {{clerk.clerk}} {%endfor%}
-<!-- judge listing -->
-<h2>Judge Listing</h2>
-{% for judge in site.data.judges%} {{judge.lname}} {%endfor%}
 
+{% capture style %}{% include judicial-directory.css %}{% endcapture %}
+<style>{{ style | scssify }}</style>
+<div id="Document">
+<div id="judicialDirectory">{{ site.time | date: '%Y' }}<br />Judicial Directory</div>
+<!-- supreme court -->
+<div id="The_Supreme_Court_of_Oklahoma" class="group"><img class="seal" src="http://www.oscn.net/images/seal.jpg" alt="Oklahoma Great Seal"><div class="header">
+<h4>The Supreme Court of Oklahoma</h4></div>
+<ul>{% for judge in chief%}{%include justice.html%}{%endfor%}
+{% for judge in vice-chief%}{%include justice.html%}{%endfor%}
+{% for judge in supreme%}{%include justice.html%}{%endfor%}</ul>
+</div>
+<!-- court of criminal appeals -->
+<div id="Court_of_Criminal_Appeals" class="group">
+    <div class="header">
+      <h4>Court of Criminal Appeals</h4>
+      <span>2100 N. Lincoln blvd., suite 2, Oklahoma City, OK 73105 (405) 556-9600</span>
+    </div>
+<ul>{% for judge in presiding%}{%include occa.html%}{%endfor%}
+{% for judge in vice-presiding%}{%include occa.html%}{%endfor%}
+{% for judge in criminal%}{%include occa.html%}{%endfor%}</ul>
+</div>
+<!-- court of civil appeals -->
+<div id="Court_of_Civil_Appeals" class="group">
+    <div class="header">
+      <h4>COURT OF CIVIL APPEALS</h4>
+      <span>DIVISION 1 AND 3, 1915 N. STILES, ROOM 357, OKLAHOMA CITY, OK 73105 (405) 556-9500</span>
+      <span>DIVISION 2 AND 4, 440 S. HOUSTON, SUITE 601, TULSA, OK 74127 (539) 444-2511</span>
+    </div>
+
+<ul>{% for judge in div1%}{%include coca.html%}{%endfor%}</ul>
+<ul>{% for judge in div2%}{%include coca.html%}{%endfor%}</ul>
+<ul>{% for judge in div3%}{%include coca.html%}{%endfor%}</ul>
+<ul>{% for judge in div4%}{%include coca.html%}{%endfor%}</ul>
+    <span class="div1">Division 1</span>
+    <span class="div2">Division 2</span>
+    <span class="div3">Division 3</span>
+    <span class="div4">Division 4</span>
+    <span class="okc">Oklahoma City</span>
+    <span class="tul">Tulsa</span>
+    <span class="civilbar"> </span>
+</div>
+<!-- district -->
+<div id="District" class="group">
+    <div class="header">
+		<h4>Oklahoma District Judges</h4>
+    </div>
+
+<ul>{% for judge in district%}{%include judge.html%}{%endfor%}</ul>
+</div>
+<!-- associate -->
+<div id="Associate_District" class="group">
+    <div class="header">
+		<h4>Oklahoma Associate District Judges</h4>
+    </div>
+<ul>{% for judge in associate%}{%include judge.html%}{%endfor%}</ul>
+</div>
+<!-- special -->
+<div id="Special" class="group">
+    <div class="header">
+		<h4>Oklahoma Special Judges</h4>
+    </div>
+
+<ul>{% for judge in special%}{%include judge.html%}{%endfor%}</ul>
+</div>
+
+<!-- clerks -->
+<div id="Court_Clerks_Directory" class="group">
+    <div class="header">
+		<h4>Court Clerks Directory</h4>
+		<span>(Alphabetical By County)</span>
+    </div>
+
+<ul>{% for clerk in clerks%}{%include clerk.html%}{%endfor%}</ul>
+</div>
+<!-- judge listing -->
+<div id="Alphabetical_Judges_Listing" class="group">
+    <div class="header">
+		 <h4>Judge Listing</h4>
+		<span>(Alphabetical)</span>
+    </div>
+
+<ul>{% for judge in site.data.judges%}{% include judge-list.html%}{%endfor%}</ul>
+</div>
+</div>

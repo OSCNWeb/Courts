@@ -1,0 +1,15 @@
+{% assign email = clerk.clerk | strip | replace: ' ','.' | append: '@oscn.net' | downcase %}
+{% if email == 'paula.sexton@oscn.net' %}{% assign email = 'paulasexton@oscn.net' %}
+{% elsif email == 'm..renee.ellis@oscn.net' %}{% assign email = 'renee.ellis@oscn.net' %}
+{% endif %}
+<li>
+	<div>
+	  <span class="name">{{clerk.county}}</span>
+	  <span class="court">{{clerk.clerk}}</span>
+	  <br>
+	  <span>{%if clerk.address3 contains "Box " or clerk.address3 contains "box "%}{{clerk.address3}}{%else%}{{clerk.address2}} {{clerk.address3 | replace: 'Suite', 'Ste.'}}{%endif%}<br>{{clerk.city}}, {{clerk.zip}}<br>{{clerk.phone | slice: 0,3 }}-{{clerk.phone | slice: 3,3 }}-{{clerk.phone | slice: 6,4 }}</span>
+	  <span class="hiddenInfo">
+		<a href="mailto:{{email}}">{{email}}</a>
+	  </span>
+	</div> 
+</li>

@@ -1,0 +1,10 @@
+<li>
+<div>
+<img class="picture" style="" src="http://www.oscn.net/images/judges/id/{{judge.image}}" />
+<span class="name">{{judge.title}} {{judge.fname}} {{judge.lname}}</span>
+<span class="court">Judicial Center</span>
+<span class="address">Oklahoma City, 73105</span>
+<span class="phone">({{judge.phone | slice: 0,3 }}) {{judge.phone | slice: 3,3 }}-{{judge.phone | slice: 6,4 }}</span>
+<span class="district">{{judge.notes | split: ',' | last}}</span>
+</div>
+</li>

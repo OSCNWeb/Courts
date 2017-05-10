@@ -1,0 +1,10 @@
+<li>
+<span class="name">{{judge.lname}}, {{judge.fname}}</span>
+<span class="court">
+{% if judge.county == 'COURT OF CRIMINAL APPEALS'%}Ct. of Crim. Appeals Judge
+{% elsif judge.county == 'COURT OF CIVIL APPEALS'%}Ct. of Civil Appeals Judge
+{% elsif judge.county == 'SUPREME COURT'%}Supreme Court Justice
+{% else %}{{judge.type}} Judge{% endif %}
+</span>
+<span class="address">{{judge.address1 | replace: 'Courthouse',''}}</span>
+</li>
