@@ -1,3 +1,3 @@
 id,countyid,county,lname,fname,mname,suffix,address1,address2,address3,city,state,zipcode,phone,notes,image,title,type,district,img-sm,img-md,img-lg
-1136,GARVIN,Edwards,Leah,,,Garvin County Courthouse,201 West Grant Avenue,,Pauls Valley,OK,73075,4052383486,,,leahedwards.jpg,Judge,District,21,1,1,0
-1152,LEFLORE,Hogan,Mike,,,LeFlore County Courthouse,100 S. Broadway,,Poteau,OK,74501,9186478256,,,nophoto.jpg,Judge,Special,18,1,1,0
+1136,25,GARVIN,Edwards,Leah,,,Garvin County Courthouse,201 West Grant Avenue,,Pauls Valley,OK,73075,4052383486,,leahedwards.jpg,Judge,District,21,1,1,0
+1152,40,LEFLORE,Hogan,Mike,,,LeFlore County Courthouse,100 S. Broadway,,Poteau,OK,74501,9186478256,,nophoto.jpg,Judge,Special,18,1,1,0
