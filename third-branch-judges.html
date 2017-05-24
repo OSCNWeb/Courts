@@ -1,0 +1,68 @@
+---
+---
+
+{% assign district = site.data.judges | where: 'type', 'District'%}
+{% assign associate = site.data.judges | where: 'type', 'Associate District'%}
+{% assign special = site.data.judges | where: 'type', 'Special'%}
+
+{% capture style %}
+@page { margin: 1in 0.75in; } 
+
+#Document {
+	width: 750px/*612*/; 
+	margin: 0px auto;
+}
+.judges {
+	list-style: none;
+}
+.judge {
+	float: left;
+	text-align: center;
+	width: 115px;
+	height: 200px;
+	margin-bottom: 65px;
+}
+.judge img {
+	width: 105px;
+	height: 125px;
+	margin-bottom: 20px;
+}
+.judge span {
+	display: block;
+	font-size: 8pt;
+}
+#Document h3 {
+	display: block;
+	clear: both;
+	text-transform: uppercase;
+}
+.judgelink {
+	text-decoration: none;
+	color: black;
+	display: block;
+}
+.judgelink .name {
+	color: blue;
+	text-decoration: underline;
+}
+{% endcapture %}
+<style>{{ style | scssify }}</style>
+<div id="content">
+<div id="Document">
+<!-- district -->
+<h3>Oklahoma Trial Court Judges - District Judges</h3>
+<div>
+<ul class="judges district">{% for judge in district%}{%include third-branch-judge.html%}{%endfor%}</ul>
+</div>
+<!-- associate -->
+<h3>Oklahoma Trial Court Judges - Associate District Judges</h3>
+<div id="Associate_District" class="group">
+<ul class="judges associate">{% for judge in associate%}{%include third-branch-judge.html%}{%endfor%}</ul>
+</div>
+<h3>Oklahoma Trial Court Judges — Special Judges</h3>
+<!-- special -->
+<div id="Special" class="group">
+<ul class="judges special">{% for judge in special%}{%include third-branch-judge.html%}{%endfor%}</ul>
+</div>
+</div>
+</div>
