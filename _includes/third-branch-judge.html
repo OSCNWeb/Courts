@@ -1,6 +1,6 @@
 {% assign bio = site.pages | where: 'id', judge.id%}
 <li class="judge">
-{% if bio.size > 0%}<a class="judgelink" href="http://www.oscn.net/courts/bio/{{judge.id}}/{{judge.fname}}-{{judge.lname}}">{%endif%}
+{% if bio.size > 0%}<a class="judgelink" href="http://www.oscn.net/courts/bio/{{judge.id}}/{{judge.fname | downcase}}-{{judge.lname | downcase}}">{%endif%}
 <img class="picture" src="http://www.oscn.net/images/judges/id/{{judge.image}}">
 <span class="name">{{judge.fname}} {{judge.lname}}</span>
 <span class="type">{{judge.type}} Judge</span>
