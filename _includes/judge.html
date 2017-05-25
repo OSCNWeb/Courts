@@ -1,10 +1,10 @@
 <li>
 <div>
 <img class="picture" src="http://www.oscn.net/images/judges/id/{{judge.image}}" />
-<span class="name">{{judge.fname}} {{judge.lname}}</span>
+<span class="name">{{judge.fname}} {%if judge.mname.size > 0%}{{judge.mname}} {%endif%}{{judge.lname}}</span>
 <span class="courthouse">{{judge.address1 | replace: 'County', 'Cnty.' | replace: 'Courthouse','Cthse.' | replace: 'Juvenile','Juv.' | replace: 'Center','Ctr.'}}</span>
 <span class="address">{{judge.address2}}</span>
 <span class="address2">{{judge.city}} {{judge.zip}}</span>
-<span class="phone">({{judge.phone | slice: 0,3 }}) {{judge.phone | slice: 3,3 }}-{{judge.phone | slice: 6,4 }}</span>
+<span class="phone">{% if judge.phone.size > 0%}({{judge.phone | slice: 0,3 }}) {{judge.phone | slice: 3,3 }}-{{judge.phone | slice: 6,4 }}{%else%}--{%endif%}</span>
 </div>
 </li>
