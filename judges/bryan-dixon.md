@@ -6,10 +6,10 @@ published: true
 layout: judge-bio
 ---
 Judge Dixon is the Senior District Judge in Oklahoma County having
-served over 32 years on the bench. He began his judicial service as a
+served over 34 years on the bench. He began his judicial service as a
 Special Judge on January 10, 1983, serving until he was appointed a
 District Judge on December 26, 1985. He is assigned to the civil
-division and has tried more than 650 jury trials. Judge Dixon served
+division and has tried more tried 667 jury trials. Judge Dixon served
 twice as the Presiding Judge for Oklahoma-Canadian Counties in 1999-2000
 and in 1992. He has been on the Court on the Judiciary, Trial and
 Appellate Divisions, since 1995. He currently is a member of the
