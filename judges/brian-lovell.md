@@ -2,7 +2,7 @@
 fname: Brian
 lname: Lovell
 id: 1047
-published: true
+published: false
 layout: judge-bio
 ---
 Born March 1, 1965, in Enid, Oklahoma, to Noel and Gladys Lovell. In
