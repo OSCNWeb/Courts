@@ -1,7 +1,7 @@
 ---
-fname: Kory
-lname: Kirkland
-id: 1157
+fname: Scott
+lname: Meaders
+id: 1163
 published: false
 layout: judge-bio
 ---

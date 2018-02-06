@@ -1,7 +1,7 @@
 ---
-fname: Kory
-lname: Kirkland
-id: 1157
+fname: Maxey
+lname: Reilly
+id: 1170
 published: false
 layout: judge-bio
 ---

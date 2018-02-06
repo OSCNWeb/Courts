@@ -1,7 +1,7 @@
 ---
-fname: Kory
-lname: Kirkland
-id: 1157
+fname: Sheila
+lname: Stinson
+id: 1159
 published: false
 layout: judge-bio
 ---

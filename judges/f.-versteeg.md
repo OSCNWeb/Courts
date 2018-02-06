@@ -1,7 +1,7 @@
 ---
-fname: Kory
-lname: Kirkland
-id: 1157
+fname: F.
+lname: VerSteeg
+id: 988
 published: false
 layout: judge-bio
 ---

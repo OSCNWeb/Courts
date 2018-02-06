@@ -1,7 +1,7 @@
 ---
-fname: Kory
-lname: Kirkland
-id: 1157
+fname: John
+lname: Canavan
+id: 1041
 published: false
 layout: judge-bio
 ---

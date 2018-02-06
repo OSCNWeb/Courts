@@ -5,72 +5,18 @@ id: 483
 published: true
 layout: judge-bio
 ---
-#### LEGAL EDUCATION:
 
-- Oklahoma City University School of Law
-	- **1987** Juris Doctor Degree December
-- Activities:
-	- Class representatives on the Board Governors.
+Born the daughter of a poor Pentecostal Preacher in Bethany, Oklahoma, Judge Alicia Littlefield graduated at the top of her high school class.  In the ensuing years, she has distinguished herself both in service to her community and as an attorney and special judge.
 
-#### GRADUATE:
+Working her way through both college and law school, Judge Littlefield owned and operated Alicia’s Etc., a salon in the Oklahoma City area for 15 years.  During that time, she also served as an Oklahoma Children and Youth Counselor and Assistant Producer of television programming for Galilean Ministries.  As a director and board member of Children’s Outreach, she also led learning adventures as co-hostess of travel tours to Israel, London and Rome.
 
-- Oklahoma City University
-	- **August 1984** Fifteen hours, Criminal Justice
+Majoring in Psychology as an undergraduate at Oklahoma City University, she received both her Bachelor’s and Juris Doctorate degrees from OCU.  Her distinguished legal career began in private practice prior to joining the Oklahoma County Public Defender’s Office for four years, followed by another four years as a prosecutor in the Delaware County District Attorney’s Office.   She was appointed as Special District Judge of Ottawa and Delaware Counties in 1996.
 
-#### UNDERGRADUATE:
+Her dedication to both her community and her profession is legend.  She has served on the Oklahoma Bar Manual Committee for Juvenile Law, the Oklahoma City University Law Alumni Board, the Children, Youth, and Family Services Committee of the Oklahoma County Coalition of Citizens and Professionals for Youth, and as a member of the Multi-Disciplinary Committee of the Oklahoma County for Child Protection Organization.  She also served as an Advisory Board Member of the Oklahoma City Junior College Paralegal Department.
 
-- Oklahoma City University
-	-  **August 1983** Bachelor of Science in Psychology
-- Honors:
-	- **1982-1983** Outstanding Young Women of America
+Always a staunch defender of the law and those designed to protect, Judge Littlefield served as Supervising Attorney for the Law and You Foundation, the Native American Legal Association Clinic, and the Interdisciplinary Training Program in Child Abuse.  She has been active in numerous community and civic organizations, including Business and Professional Women, the Delaware and Ottawa County Child Abuse Network, the National Organization of Victim Advocates and the Oklahoma Commission on the Status of Women.
 
-#### LEGAL EXPERIENCE:
+She has attended First Ladies Luncheons as an invited guest at gala celebrations, paying tribute to five of  America’s First Ladies, including Barbara Bush, Hillary Clinton, Laura Bush, Michelle Obama and Melania Trump.  Her numerous honors include service as a Class Representative on the Board of Governors while attending the Oklahoma City University School of Law, being named as one of the Outstanding Young Women of America and being named Outstanding Special District Judge by the Oklahoma Trial Lawyers Association.
 
-- **May-October 1988** Harry James Law Office  
-Oklahoma City, Oklahoma
-- **October 1988-1992** Oklahoma County Public Defender's Office
-- **November 1992 to 1996** Ottawa County District Attorney 
-- **September 1996 to Present** Special District Judge of  
-Ottawa and Delaware Counties 
+Judge Littlefield and her husband, Rick, who served as a member of the Oklahoma House of Representatives and Oklahoma State Senate for a combined 22 years of service, live in rural Delaware County.  They have one son, Creed.
 
-#### EXPERIENCE:
-
-- Alicia's, Etc. 1976-July, 1991
-	- Oklahoma City, Oklahoma Owner and Operator
-- Galilean Ministries 1984-1990
-	- Oklahoma City, Oklahoma Children and Youth Counselor
-	- Assistant Producer of Television Programming; Camera Person
-- Director of Children's Outreach; Board Member; Co-hostess of Travel Tours to Israel, London and Rome.
-- KGOY, KRMG, KEBC Radio Stations 1973-1980
-	- Oklahoma City, Oklahoma License Radio Announcer
-
-#### BAR ADMISSIONS:
-- **1988** State Bar of Oklahoma
-- **1988** United States District Court of Oklahoma Western District
-- **1999** United States District court of Oklahoma Northern Division 
-- **1993** Supreme Court of the United States of America 1993
-
-#### ACTIVITIES: Past and Present
-- 1992 Oklahoma Bar Manual Committee
-	- Juvenile Law
-- Oklahoma City University Law Alumni Board
-- Children, Youth, and Family Services committee
-	- Oklahoma County Coalition of Citizens and Professionals for youth
-- C.A.R.E. Center of Oklahoma City
-- Member of the Multi-Disciplinary Committee
-	- Oklahoma County for Child Protection
-- Advisory Board Member, Oklahoma City Junior College
-	 - Paralegal Department
-- Iota Tau Tau
-- Supervising Attorney for the Law and You Foundation
-- Supervising Attorney for the Native American Legal Association
-Clinic
-- Supervising Attorney for the interdisciplinary Training Program in
-Child Abuse and Neglect-The University of Oklahoma Health Sciences
-Center
-- Business and Professional Women
-- Delaware and Ottawa County Child Abuse Network
-- National Organization of Victim Advocates
-- Oklahoma Commission on the Status of Women
-- Outstanding Oklahoma Special District Judge of 1992
-	- Oklahoma Trial Lawyers Association

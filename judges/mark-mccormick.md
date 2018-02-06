@@ -1,7 +1,7 @@
 ---
-fname: Kory
-lname: Kirkland
-id: 1157
+fname: Mark
+lname: McCormick
+id: 1162
 published: false
 layout: judge-bio
 ---

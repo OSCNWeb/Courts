@@ -1,7 +1,7 @@
 ---
-fname: Kory
-lname: Kirkland
-id: 1157
+fname: Kathryn
+lname: Savage
+id: 1167
 published: false
 layout: judge-bio
 ---
