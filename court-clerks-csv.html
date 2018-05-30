@@ -1,12 +1,4 @@
 ---
 ---
-{% assign clerks = site.data.county %}
-<!-- clerks -->
-<div id="Court_Clerks_Directory" class="group">
-    <div class="header">
-		<h4>Court Clerks Directory</h4>
-		<span>(Alphabetical By County)</span>
-    </div>
-
-<ul>{% for clerk in clerks%}{%include clerk.html%}{%endfor%}</ul>
-</div>
+{% assign clerks = site.data.county %}county,clerk,address1,city,zipcode,phone,email
+{% for clerk in clerks%}{%include clerk-csv.html%}{%endfor%}
