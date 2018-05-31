@@ -2,7 +2,7 @@
 fname: Bruce
 lname: Gambill
 id: 358
-published: false
+published: true
 layout: judge-bio
 ---
-
+Judge Gambill was graduated from Pawhuska, Oklahoma in 1974 at which time he had also attained the rank of Eagle Scout in the Boy Scouts of America. Judge Gambill is Oklahoma Choctaw.  He received a B.S. in Zoology from O.U. while a member of Lambda Chi Alpha social fraternity and his J.D. from O.C.U. He was admitted to the Oklahoma Bar in May, 1981.  During his professional career, Judge Gambill has been private counsel to Oklahoma City Abstract, Asst. District Attorney for Caddo County, and in private practice in Bristow and Pawhuska.  In 1989 he was appointed Special Judge in Osage County and served until 2002 when he was elected, unopposed, as Associate District Judge where he has continued to serve to date.  Judge Gambill is a member of the real property division of the Oklahoma Bar Association and has served on the Title Examination Standards Committee, held an Oklahoma Real Estate Broker’s license and instructor license.  Judge Gambill has 6 children, all adults except the youngest daughter who is still in his home.  He has a grandson and a granddaughter.  Judge Gambill is the Pastor of Emmanual Church Independent COGIC, since 2007 and holds a black belt in Gojo Ryu karate as an instructor.  He enjoys fishing, hunting, shooting, mountain hiking, karate, swimming, traveling, and missionary and mentoring work. He is a Master Mason.
