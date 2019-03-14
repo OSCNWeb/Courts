@@ -5,7 +5,6 @@ id: 483
 published: true
 layout: judge-bio
 ---
-
 Born the daughter of a poor Pentecostal Preacher in Bethany, Oklahoma, Judge Alicia Littlefield graduated at the top of her high school class.  In the ensuing years, she has distinguished herself both in service to her community and as an attorney and special judge.
 
 Working her way through both college and law school, Judge Littlefield owned and operated Alicia’s Etc., a salon in the Oklahoma City area for 15 years.  During that time, she also served as an Oklahoma Children and Youth Counselor and Assistant Producer of television programming for Galilean Ministries.  As a director and board member of Children’s Outreach, she also led learning adventures as co-hostess of travel tours to Israel, London and Rome.
@@ -19,4 +18,3 @@ Always a staunch defender of the law and those designed to protect, Judge Little
 She has attended First Ladies Luncheons as an invited guest at gala celebrations, paying tribute to five of  America’s First Ladies, including Barbara Bush, Hillary Clinton, Laura Bush, Michelle Obama and Melania Trump.  Her numerous honors include service as a Class Representative on the Board of Governors while attending the Oklahoma City University School of Law, being named as one of the Outstanding Young Women of America and being named Outstanding Special District Judge by the Oklahoma Trial Lawyers Association.
 
 Judge Littlefield and her husband, Rick, who served as a member of the Oklahoma House of Representatives and Oklahoma State Senate for a combined 22 years of service, live in rural Delaware County.  They have one son, Creed.
-

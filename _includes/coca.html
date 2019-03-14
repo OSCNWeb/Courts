@@ -3,6 +3,6 @@
 <li class="{{tmp}} {{tmp2}}">
 <div>
 <img class="picture" src="http://www.oscn.net/images/judges/id/{{judge.image}}" />
-<span class="name">{{judge.title}} <br />{{judge.fname}} {{judge.lname}}</span>
+<span class="name">{% if judge.title contains 'Vice Chief'%}Vice Chief Judge{%else%}{{judge.title}}{%endif%} <br />{{judge.fname}} {{judge.lname}}</span>
 </div>
 </li>
