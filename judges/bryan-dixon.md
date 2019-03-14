@@ -15,13 +15,13 @@ and in 1992. He has been on the Court on the Judiciary, Trial and
 Appellate Divisions, since 1995. He currently is a member of the
 Appellate Division and has served as the Presiding and Vice Presiding
 Judge of both divisions. Judge Dixon was the Presiding Judge of the
-10^th^ Multi-County Grand Jury.
+10th Multi-County Grand Jury.
 
 Judge Dixon is a Past President of the Oklahoma County Bar Association
 (OCBA) and served on the OCBA Board and the Bench and Bar Committee for
 many years, twice as Chair. He is a Master and former President of the
 Bohanon Inn of Court. He has served on the Oklahoma County Law Library
-Board for more than 25 years.
+Board for more than 28 years.
 
 Judge Dixon has received the following honors and awards: OBA Award for
 Judicial Excellence in 2010; American Board of Trial Advocates Judge of
